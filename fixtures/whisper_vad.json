@@ -1,0 +1,436 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | CPU : SSE3 = 1 | SSSE3 = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/home/user/.cache/whisper/ggml-large-v3-turbo.bin",
+		"language": "en",
+		"translate": false
+	},
+	"result": {
+		"language": "en"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:01,990",
+				"to": "00:00:07,290"
+			},
+			"offsets": {
+				"from": 1990,
+				"to": 7290
+			},
+			"text": " nobody tells you this about philosophy. It is not about answers. It is about better questions.",
+			"tokens": [
+				{
+					"text": "[_BEG_]",
+					"timestamps": {
+						"from": "00:00:00,000",
+						"to": "00:00:00,000"
+					},
+					"offsets": {
+						"from": 0,
+						"to": 0
+					},
+					"id": 50365,
+					"p": 0.962806,
+					"t_dtw": -1
+				},
+				{
+					"text": " nobody",
+					"timestamps": {
+						"from": "00:00:00,020",
+						"to": "00:00:00,390"
+					},
+					"offsets": {
+						"from": 20,
+						"to": 390
+					},
+					"id": 5079,
+					"p": 0.0736889,
+					"t_dtw": -1
+				},
+				{
+					"text": " tells",
+					"timestamps": {
+						"from": "00:00:00,390",
+						"to": "00:00:00,710"
+					},
+					"offsets": {
+						"from": 390,
+						"to": 710
+					},
+					"id": 5112,
+					"p": 0.996531,
+					"t_dtw": -1
+				},
+				{
+					"text": " you",
+					"timestamps": {
+						"from": "00:00:00,710",
+						"to": "00:00:00,900"
+					},
+					"offsets": {
+						"from": 710,
+						"to": 900
+					},
+					"id": 291,
+					"p": 0.997725,
+					"t_dtw": -1
+				},
+				{
+					"text": " this",
+					"timestamps": {
+						"from": "00:00:00,900",
+						"to": "00:00:01,160"
+					},
+					"offsets": {
+						"from": 900,
+						"to": 1160
+					},
+					"id": 341,
+					"p": 0.99659,
+					"t_dtw": -1
+				},
+				{
+					"text": " about",
+					"timestamps": {
+						"from": "00:00:01,280",
+						"to": "00:00:01,480"
+					},
+					"offsets": {
+						"from": 1280,
+						"to": 1480
+					},
+					"id": 466,
+					"p": 0.994136,
+					"t_dtw": -1
+				},
+				{
+					"text": " philosophy",
+					"timestamps": {
+						"from": "00:00:01,480",
+						"to": "00:00:01,850"
+					},
+					"offsets": {
+						"from": 1480,
+						"to": 1850
+					},
+					"id": 10675,
+					"p": 0.983914,
+					"t_dtw": -1
+				},
+				{
+					"text": ".",
+					"timestamps": {
+						"from": "00:00:02,170",
+						"to": "00:00:02,280"
+					},
+					"offsets": {
+						"from": 2170,
+						"to": 2280
+					},
+					"id": 13,
+					"p": 0.503925,
+					"t_dtw": -1
+				},
+				{
+					"text": " It",
+					"timestamps": {
+						"from": "00:00:02,280",
+						"to": "00:00:02,340"
+					},
+					"offsets": {
+						"from": 2280,
+						"to": 2340
+					},
+					"id": 467,
+					"p": 0.596808,
+					"t_dtw": -1
+				},
+				{
+					"text": " is",
+					"timestamps": {
+						"from": "00:00:02,400",
+						"to": "00:00:02,440"
+					},
+					"offsets": {
+						"from": 2400,
+						"to": 2440
+					},
+					"id": 307,
+					"p": 0.997057,
+					"t_dtw": -1
+				},
+				{
+					"text": " not",
+					"timestamps": {
+						"from": "00:00:02,440",
+						"to": "00:00:02,560"
+					},
+					"offsets": {
+						"from": 2440,
+						"to": 2560
+					},
+					"id": 406,
+					"p": 0.992636,
+					"t_dtw": -1
+				},
+				{
+					"text": " about",
+					"timestamps": {
+						"from": "00:00:02,560",
+						"to": "00:00:02,750"
+					},
+					"offsets": {
+						"from": 2560,
+						"to": 2750
+					},
+					"id": 466,
+					"p": 0.996909,
+					"t_dtw": -1
+				},
+				{
+					"text": " answers",
+					"timestamps": {
+						"from": "00:00:02,780",
+						"to": "00:00:03,070"
+					},
+					"offsets": {
+						"from": 2780,
+						"to": 3070
+					},
+					"id": 6338,
+					"p": 0.985863,
+					"t_dtw": -1
+				},
+				{
+					"text": ".",
+					"timestamps": {
+						"from": "00:00:03,070",
+						"to": "00:00:03,200"
+					},
+					"offsets": {
+						"from": 3070,
+						"to": 3200
+					},
+					"id": 13,
+					"p": 0.905643,
+					"t_dtw": -1
+				},
+				{
+					"text": " It",
+					"timestamps": {
+						"from": "00:00:03,200",
+						"to": "00:00:03,310"
+					},
+					"offsets": {
+						"from": 3200,
+						"to": 3310
+					},
+					"id": 467,
+					"p": 0.805735,
+					"t_dtw": -1
+				},
+				{
+					"text": " is",
+					"timestamps": {
+						"from": "00:00:03,560",
+						"to": "00:00:03,560"
+					},
+					"offsets": {
+						"from": 3560,
+						"to": 3560
+					},
+					"id": 307,
+					"p": 0.997864,
+					"t_dtw": -1
+				},
+				{
+					"text": " about",
+					"timestamps": {
+						"from": "00:00:03,640",
+						"to": "00:00:04,020"
+					},
+					"offsets": {
+						"from": 3640,
+						"to": 4020
+					},
+					"id": 466,
+					"p": 0.997876,
+					"t_dtw": -1
+				},
+				{
+					"text": " better",
+					"timestamps": {
+						"from": "00:00:04,110",
+						"to": "00:00:04,320"
+					},
+					"offsets": {
+						"from": 4110,
+						"to": 4320
+					},
+					"id": 1101,
+					"p": 0.969933,
+					"t_dtw": -1
+				},
+				{
+					"text": " questions",
+					"timestamps": {
+						"from": "00:00:04,320",
+						"to": "00:00:04,920"
+					},
+					"offsets": {
+						"from": 4320,
+						"to": 4920
+					},
+					"id": 1651,
+					"p": 0.903442,
+					"t_dtw": -1
+				},
+				{
+					"text": ".",
+					"timestamps": {
+						"from": "00:00:04,920",
+						"to": "00:00:04,920"
+					},
+					"offsets": {
+						"from": 4920,
+						"to": 4920
+					},
+					"id": 13,
+					"p": 0.680787,
+					"t_dtw": -1
+				},
+				{
+					"text": "[_TT_246]",
+					"timestamps": {
+						"from": "00:00:04,920",
+						"to": "00:00:04,920"
+					},
+					"offsets": {
+						"from": 4920,
+						"to": 4920
+					},
+					"id": 50611,
+					"p": 0.480418,
+					"t_dtw": -1
+				}
+			]
+		},
+		{
+			"timestamps": {
+				"from": "00:00:07,290",
+				"to": "00:00:08,760"
+			},
+			"offsets": {
+				"from": 7290,
+				"to": 8760
+			},
+			"text": " And that changes everything.",
+			"tokens": [
+				{
+					"text": " And",
+					"timestamps": {
+						"from": "00:00:04,940",
+						"to": "00:00:05,080"
+					},
+					"offsets": {
+						"from": 4940,
+						"to": 5080
+					},
+					"id": 400,
+					"p": 0.996675,
+					"t_dtw": -1
+				},
+				{
+					"text": " that",
+					"timestamps": {
+						"from": "00:00:05,080",
+						"to": "00:00:05,290"
+					},
+					"offsets": {
+						"from": 5080,
+						"to": 5290
+					},
+					"id": 300,
+					"p": 0.999805,
+					"t_dtw": -1
+				},
+				{
+					"text": " changes",
+					"timestamps": {
+						"from": "00:00:05,290",
+						"to": "00:00:05,670"
+					},
+					"offsets": {
+						"from": 5290,
+						"to": 5670
+					},
+					"id": 2962,
+					"p": 0.999603,
+					"t_dtw": -1
+				},
+				{
+					"text": " everything",
+					"timestamps": {
+						"from": "00:00:05,670",
+						"to": "00:00:06,210"
+					},
+					"offsets": {
+						"from": 5670,
+						"to": 6210
+					},
+					"id": 1203,
+					"p": 0.999937,
+					"t_dtw": -1
+				},
+				{
+					"text": ".",
+					"timestamps": {
+						"from": "00:00:06,210",
+						"to": "00:00:06,400"
+					},
+					"offsets": {
+						"from": 6210,
+						"to": 6400
+					},
+					"id": 13,
+					"p": 0.976669,
+					"t_dtw": -1
+				},
+				{
+					"text": "[_TT_320]",
+					"timestamps": {
+						"from": "00:00:06,400",
+						"to": "00:00:06,400"
+					},
+					"offsets": {
+						"from": 6400,
+						"to": 6400
+					},
+					"id": 50685,
+					"p": 0.240253,
+					"t_dtw": -1
+				}
+			]
+		}
+	]
+}

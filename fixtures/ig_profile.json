@@ -1,0 +1,864 @@
+{
+ "request": {
+  "n": 2,
+  "path": "/v1/instagram/profile",
+  "params": {
+   "handle": "michael__mezz"
+  },
+  "status": 200,
+  "credits": 1
+ },
+ "response": {
+  "success": true,
+  "credits_remaining": 98,
+  "credits_charged": 1,
+  "data": {
+   "user": {
+    "id": "50540598231",
+    "username": "michael__mezz",
+    "full_name": "michael mezzatesta",
+    "biography": "economics, climate, finance, culture  \u263f\nhost @betterfuturepod // founder @betterfuture.media\n\ud83d\udce9 collabs: michaelmezz@sixteenth.com",
+    "edge_followed_by": {
+     "count": 329922
+    },
+    "edge_follow": {
+     "count": 1695
+    },
+    "is_private": false,
+    "is_verified": true,
+    "edge_owner_to_timeline_media": {
+     "count": 282,
+     "page_info": {
+      "has_next_page": true,
+      "end_cursor": "sc:eyJ2ZXJzaW9uIjoxLCJoYW5kbGUiOiJtaWNoYWVsX19tZXp6IiwidXNlcklkIjoiNTA1NDA1OTgyMzEiLCJjdXJzb3IiOiJBUUhUYVJIX293SEZZS1hyQWRwX241cGx0R2xCM19VM01NODZkbHFqdlQ4QXoteVY5ejZLUzdLQ1Q0NlZwaDR2QmpZYjI2V1p4TTZkRkJPZnl3NmNIcGxLS0EifQ"
+     },
+     "edges": [
+      {
+       "node": {
+        "__typename": "XDTGraphVideo",
+        "__isXDTGraphMediaInterface": "XDTGraphVideo",
+        "id": "4029571404721686880",
+        "shortcode": "Dfr6dfPgglg",
+        "thumbnail_src": "https://scontent-lga3-2.cdninstagram.com/v/t51.82787-15/902585936_18096397430676845_6333739714173470336_n.jpg?stp=dst-jpg_e15_p480x480_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ig_cache_key=NDAyOTU3MTQwNDcyMTY4Njg4MDE4MDk2Mzk3NDI0Njc2ODQ1.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fdXNlcl9zZWxlY3RlZF90aHVtYm5haWwuQzMifQ%3D%3D&_nc_ohc=nFFYCVQNf30Q7kNvwGj6qVU&_nc_oc=Adqx3_MxfEPYb2fY-oe2WwoCGeYhV6c_BFwVXWZ28VEiEZEI-DMpw7qZiEJwQPNKxrk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_gid=l0FqoN5gUORuTSavpnufXQ&_nc_ss=7339b&_n",
+        "display_url": "https://scontent-lga3-2.cdninstagram.com/v/t51.82787-15/902585936_18096397430676845_6333739714173470336_n.jpg?stp=dst-jpg_e15_p480x480_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ig_cache_key=NDAyOTU3MTQwNDcyMTY4Njg4MDE4MDk2Mzk3NDI0Njc2ODQ1.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fdXNlcl9zZWxlY3RlZF90aHVtYm5haWwuQzMifQ%3D%3D&_nc_ohc=nFFYCVQNf30Q7kNvwGj6qVU&_nc_oc=Adqx3_MxfEPYb2fY-oe2WwoCGeYhV6c_BFwVXWZ28VEiEZEI-DMpw7qZiEJwQPNKxrk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_gid=l0FqoN5gUORuTSavpnufXQ&_nc_ss=7339b&_n",
+        "video_url": "https://scontent-lga3-1.cdninstagram.com/o1/v/t2/f2/m86/AQMaDVleZEpq1yRRjee0lryp2K9uw5q_q_c-9InFsuHHjddSqKd48cjEfFblma1EmJAmT-rusU8cJU4SnXj5Eze8WFLX_elMNtQqG4E.mp4?_nc_cat=102&_nc_sid=5e9851&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_ohc=r_buUSBvegcQ7kNvwH0S06r&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTYzMjEzMzY2ODU5MzU5NiwiYXNzZXRfYWdlX2RheXMiOjEsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjo3NCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=8dcb6dccb2e944c2&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJv",
+        "video_view_count": 140908,
+        "video_play_count": 140908,
+        "has_audio": true,
+        "product_type": "clips",
+        "video_duration": 74,
+        "is_video": true,
+        "owner": {
+         "id": "50170700844",
+         "username": "climatevanguard",
+         "is_verified": false,
+         "profile_pic_url": "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-19/404579312_354537757160227_9201752381179367266_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ig_cache_key=GPBjHRgjMxNBc0IBAGIPTacJMbN-bkULAAAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4zMzAuQzMifQ%3D%3D&_nc_ohc=ot7ZqkPMXq0Q7kNvwFezLbO&_nc_oc=Adr6MHnB7fvfpHoy0GbtgGze6MI3GsNNKrboXq7l-l6VbyRSxHcr4RPPcHGp04hV8RY&_nc_ad=z-m&_nc_cid=0&_nc_zt=24&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_ss=7339b&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQQotGwBvBWtBih_ykL6O65qKNaAcr1I2d9Py-laOoqrUw&oe=6AFE",
+         "full_name": "Climate Vanguard",
+         "edge_followed_by": {
+          "count": 27968
+         }
+        },
+        "edge_media_to_caption": {
+         "edges": [
+          {
+           "node": {
+            "id": "4029571404721686880",
+            "text": "\u2753 What do people get wrong about capitalism?\n\nIn this video, we chat with @michael__mezz about what capitalism is, what it is not, and how we could organise society more democratically.\n\nMusic: Bensound.com\nArtist: Diffie Bosman\nEditor: @agisilaos_k \n\n#capitalism #democracy #revolution",
+            "created_at": "1794582585"
+           }
+          }
+         ]
+        },
+        "created_at": "2026-11-13T15:09:45.000Z",
+        "taken_at_timestamp": 1794582585,
+        "edge_media_preview_like": {
+         "count": 9902,
+         "edges": []
+        },
+        "like_and_view_counts_disabled": false,
+        "comment_count": 285,
+        "edge_media_preview_comment": {
+         "count": 285,
+         "edges": []
+        },
+        "edge_media_to_parent_comment": {
+         "count": 285,
+         "edges": []
+        },
+        "edge_media_to_tagged_user": {
+         "edges": [
+          {
+           "node": {
+            "id": "4029571404721686880@2712409040",
+            "x": null,
+            "y": null,
+            "user": {
+             "id": "2712409040",
+             "username": "agisilaos_k",
+             "is_verified": false,
+             "profile_pic_url": "https://scontent-lga3-3.cdninstagram.com/v/t51.82787-19/564307828_18357761803089041_8763082570421091422_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ig_cache_key=GHSnoiGR9CR-SThBAF68XUMruZx5bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=kmoq_lB1gEYQ7kNvwHf0H5D&_nc_oc=AdqIil04RpAbu-0YlXCja9g6Bw4p32W9zv1SR38qeGdVfqVYlrxah6ss_gc73yF5e0w&_nc_ad=z-m&_nc_cid=0&_nc_zt=24&_nc_ht=scontent-lga3-3.cdninstagram.com&_nc_gid=l0FqoN5gUORuTSavpnufXQ&_nc_ss=7339b&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQRpVN3i0GokLdSDJQIgzM",
+             "full_name": "Agisilaos\u270a\ud83c\udffe\ud83c\udf0e\ud83c\udf49"
+            }
+           }
+          },
+          {
+           "node": {
+            "id": "4029571404721686880@50540598231",
+            "x": 0.0653594807,
+            "y": 0.0163398702,
+            "user": {
+             "id": "50540598231",
+             "username": "michael__mezz",
+             "is_verified": true,
+             "profile_pic_url": "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-19/459414608_1055826749268305_3875232650665053012_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ig_cache_key=GFAcYhtRoVXSRMADAFTL4lyQl8c1bkULAAAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=Mq7BbiOrqGAQ7kNvwGmJZQv&_nc_oc=Adr7q5w4p5-62_03lHWhGEFFw9QcApij259OmgmpZ3IazrHl4CFc6eP6j7GlWol9HOU&_nc_ad=z-m&_nc_cid=0&_nc_zt=24&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_ss=7339b&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQTkJj8lg4aJxCgOPkYgZvXv6clVwQ0NqEKDKh_so2Hr9g&oe=6AFF0",
+             "full_name": "michael mezzatesta"
+            }
+           }
+          },
+          {
+           "node": {
+            "id": "4029571404721686880@52771030679",
+            "x": 0.0653594807,
+            "y": 0.0163398702,
+            "user": {
+             "id": "52771030679",
+             "username": "r_degrowth",
+             "is_verified": false,
+             "profile_pic_url": "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-19/452403396_455308754047531_6536517771175872812_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ig_cache_key=GMQg9xorUozUGZ4BACxJ9_pHYLZabkULAAAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41NjAuQzMifQ%3D%3D&_nc_ohc=6NutEUTLyYUQ7kNvwGyvCbO&_nc_oc=AdpM-eUTnyv3CUad7pDIVp2yiQ1fBPy1r0WetP_ieA8yB9APsicFr-swq_XpQVw5zUA&_nc_ad=z-m&_nc_cid=0&_nc_zt=24&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_ss=7339b&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQSVq2odx9bsVssxF41ZG20ZgTv3ebIe3dHRG5yvw9Z0ag&oe=6AFF",
+             "full_name": "Research and Degrowth"
+            }
+           }
+          }
+         ]
+        },
+        "clips_music_attribution_info": {
+         "artist_name": "climatevanguard",
+         "song_name": "Original audio",
+         "uses_original_audio": true,
+         "should_mute_audio": false,
+         "should_mute_audio_reason": "",
+         "audio_id": "29074368155549802"
+        },
+        "clips_metadata": {
+         "originality_info": null,
+         "__rt_3c4e8bb6a59d": "XDTClipsMetadataDict",
+         "achievements_info": {
+          "num_earned_achievements": null,
+          "show_achievements": false
+         },
+         "additional_audio_info": {
+          "additional_audio_username": null,
+          "audio_reattribution_info": {
+           "should_allow_restore": false
+          }
+         },
+         "audio_ranking_info": {
+          "best_audio_cluster_id": "2346063489550651"
+         },
+         "audio_type": "original_sounds",
+         "branded_content_tag_info": {
+          "can_add_tag": false
+         },
+         "clips_creation_entry_point": "clips",
+         "content_appreciation_info": {
+          "enabled": false,
+          "entry_point_container": null
+         },
+         "contextual_highlight_info": null,
+         "disable_use_in_clips_client_cache": false,
+         "is_fan_club_promo_video": null,
+         "is_public_chat_welcome_video": false,
+         "is_shared_to_fb": false,
+         "mashup_info": {
+          "can_toggle_mashups_allowed": false,
+          "has_been_mashed_up": false,
+          "has_nonmimicable_additional_audio": false,
+          "is_creator_requesting_mashup": false,
+          "is_light_weight_check": true,
+          "is_pivot_page_available": false,
+          "mashup_type": null,
+          "mashups_allowed": false,
+          "non_privacy_filtered_mashups_media_count": 0,
+          "original_media": null
+         },
+         "merchandising_pill_info": null,
+         "music_canonical_id": "18645201391053206",
+         "music_info": null,
+         "original_sound_info": {
+          "allow_creator_to_rename": true,
+          "audio_asset_id": "29074368155549802",
+          "audio_filter_infos": [],
+          "audio_parts": [],
+          "audio_parts_by_filter": [],
+          "can_remix_be_shared_to_fb": false,
+          "can_remix_be_shared_to_fb_expansion": false,
+          "consumption_info": {
+           "is_bookmarked": false,
+           "is_trending_in_clips": false,
+           "should_mute_audio_reason": "",
+           "should_mute_audio_reason_type": null
+          },
+          "dash_manifest": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<MPD xmlns=\"urn:mpeg:dash:schema:mpd:2011\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"urn:mpeg:dash:schema:mpd:2011 DASH-MPD.xsd\" profiles=\"urn:mpeg:dash:profile:isoff-on-demand:2011\" minBufferTime=\"PT2S\" type=\"static\" mediaPresentationDuration=\"PT74.000542S\" FBDeliveryExperimentName=\"oa_ig4a_xhe_memory_v2\" FBDeliveryExperimentGroup=\"test_oa_ig4a_vbr123_xhe_20260928\" FBManifestTimestamp=\"1794716604\" FBManifestIdentifier=\"FvjOya8NKTbqmYz+8prmBb6AuoTzmuYF6PPQh/Oa5gUcGBRvYV9pZzRhX3hoZV91bml2ZXJzZRgVb2FfaWc0YV94aGVfbWVtb3J5X3YyG",
+          "duration_in_ms": 74000,
+          "hide_remixing": true,
+          "ig_artist": {
+           "__typename": "XDTUserDict",
+           "strong_id__": "50170700844",
+           "id": "50170700844",
+           "full_name": "Climate Vanguard",
+           "is_private": false,
+           "is_verified": false,
+           "profile_pic_id": "3242536646052695839_50170700844",
+           "profile_pic_url": "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-19/404579312_354537757160227_9201752381179367266_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ig_cache_key=GPBjHRgjMxNBc0IBAGIPTacJMbN-bkULAAAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4zMzAuQzMifQ%3D%3D&_nc_ohc=ot7ZqkPMXq0Q7kNvwFezLbO&_nc_oc=Adr6MHnB7fvfpHoy0GbtgGze6MI3GsNNKrboXq7l-l6VbyRSxHcr4RPPcHGp04hV8RY&_nc_ad=z-m&_nc_cid=0&_nc_zt=24&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_ss=7339b&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQQotGwBvBWtBih_ykL6O65qKNaAcr1I2d9Py-laOoqrUw&oe=6AFE",
+           "username": "climatevanguard"
+          },
+          "is_audio_automatically_attributed": false,
+          "is_eligible_for_audio_effects": true,
+          "is_explicit": false,
+          "is_original_audio_download_eligible": true,
+          "oa_owner_is_music_artist": false,
+          "is_reuse_disabled": false,
+          "is_xpost_from_fb": false,
+          "original_audio_subtype": "default",
+          "original_audio_title": "Original audio",
+          "original_media_id": "4029571404721686880",
+          "progressive_download_url": "https://scontent-lga3-2.cdninstagram.com/o1/v/t2/f2/m86/AQP_nlTq62orNWxEJjxgffmMG8slXKmfrrSLvGgzKFq-9SPyhSaFlQ_jqMPThdLbXHJvODKFA5fvaWX1E4lupUIs1AXib_A-mho.mp4?_nc_cat=101&_nc_sid=ef5aa3&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_ohc=ojVxuX3YQBQQ7kNvwHXr6kN&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMC5wcm9ncmVzc2l2ZV9hdWRpbyIsInhwdl9hc3NldF9pZCI6MTYzMjEzMzY2ODU5MzU5NiwiYXNzZXRfYWdlX2RheXMiOjEsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjo3NCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=l0FqoN5gUORuTSavpnufXQ&_nc_ss=7a39b&_nc_map=urlgen_bucketless&_",
+          "should_mute_audio": false,
+          "time_created": 1794582586,
+          "fb_downstream_use_xpost_metadata": {
+           "downstream_use_xpost_deny_reason": "NONE"
+          }
+         },
+         "professional_clips_upsell_type": 0,
+         "shopping_info": null,
+         "show_achievements": false
+        },
+        "is_ad": false,
+        "is_paid_partnership": false,
+        "ai_label_info": null,
+        "location": null,
+        "coauthor_producers": [
+         {
+          "__typename": "XDTUserDict",
+          "strong_id__": "50540598231",
+          "id": "17841450586947574",
+          "full_name": "michael mezzatesta",
+          "is_private": false,
+          "is_verified": true,
+          "profile_pic_id": "3456807922095096845_50540598231",
+          "profile_pic_url": "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-19/459414608_1055826749268305_3875232650665053012_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ig_cache_key=GFAcYhtRoVXSRMADAFTL4lyQl8c1bkULAAAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=Mq7BbiOrqGAQ7kNvwGmJZQv&_nc_oc=Adr7q5w4p5-62_03lHWhGEFFw9QcApij259OmgmpZ3IazrHl4CFc6eP6j7GlWol9HOU&_nc_ad=z-m&_nc_cid=0&_nc_zt=24&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_ss=7339b&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQTkJj8lg4aJxCgOPkYgZvXv6clVwQ0NqEKDKh_so2Hr9g&oe=6AFF0",
+          "username": "michael__mezz",
+          "user_activation_info": null,
+          "pk": "50540598231",
+          "friendship_status": null,
+          "is_unpublished": null,
+          "supervision_info": null
+         },
+         {
+          "__typename": "XDTUserDict",
+          "strong_id__": "52771030679",
+          "id": null,
+          "full_name": "Research and Degrowth",
+          "is_private": false,
+          "is_verified": false,
+          "profile_pic_id": "3419144046877772651_52771030679",
+          "profile_pic_url": "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-19/452403396_455308754047531_6536517771175872812_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ig_cache_key=GMQg9xorUozUGZ4BACxJ9_pHYLZabkULAAAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41NjAuQzMifQ%3D%3D&_nc_ohc=6NutEUTLyYUQ7kNvwGyvCbO&_nc_oc=AdpM-eUTnyv3CUad7pDIVp2yiQ1fBPy1r0WetP_ieA8yB9APsicFr-swq_XpQVw5zUA&_nc_ad=z-m&_nc_cid=0&_nc_zt=24&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_ss=7339b&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQSVq2odx9bsVssxF41ZG20ZgTv3ebIe3dHRG5yvw9Z0ag&oe=6AFF",
+          "username": "r_degrowth",
+          "user_activation_info": null,
+          "pk": "52771030679",
+          "friendship_status": null,
+          "is_unpublished": null,
+          "supervision_info": null
+         },
+         {
+          "__typename": "XDTUserDict",
+          "strong_id__": "2712409040",
+          "id": null,
+          "full_name": "Agisilaos\u270a\ud83c\udffe\ud83c\udf0e\ud83c\udf49",
+          "is_private": false,
+          "is_verified": false,
+          "profile_pic_id": "3740403085794111306_2712409040",
+          "profile_pic_url": "https://scontent-lga3-3.cdninstagram.com/v/t51.82787-19/564307828_18357761803089041_8763082570421091422_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ig_cache_key=GHSnoiGR9CR-SThBAF68XUMruZx5bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=kmoq_lB1gEYQ7kNvwHf0H5D&_nc_oc=AdqIil04RpAbu-0YlXCja9g6Bw4p32W9zv1SR38qeGdVfqVYlrxah6ss_gc73yF5e0w&_nc_ad=z-m&_nc_cid=0&_nc_zt=24&_nc_ht=scontent-lga3-3.cdninstagram.com&_nc_gid=l0FqoN5gUORuTSavpnufXQ&_nc_ss=7339b&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQRpVN3i0GokLdSDJQIgzM",
+          "username": "agisilaos_k",
+          "user_activation_info": null,
+          "pk": "2712409040",
+          "friendship_status": null,
+          "is_unpublished": null,
+          "supervision_info": null
+         }
+        ],
+        "dimensions": {
+         "height": 1920,
+         "width": 1080
+        },
+        "display_resources": [
+         {
+          "src": "https://scontent-lga3-2.cdninstagram.com/v/t51.82787-15/902585936_18096397430676845_6333739714173470336_n.jpg?stp=dst-jpg_e15_p480x480_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ig_cache_key=NDAyOTU3MTQwNDcyMTY4Njg4MDE4MDk2Mzk3NDI0Njc2ODQ1.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fdXNlcl9zZWxlY3RlZF90aHVtYm5haWwuQzMifQ%3D%3D&_nc_ohc=nFFYCVQNf30Q7kNvwGj6qVU&_nc_oc=Adqx3_MxfEPYb2fY-oe2WwoCGeYhV6c_BFwVXWZ28VEiEZEI-DMpw7qZiEJwQPNKxrk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_gid=l0FqoN5gUORuTSavpnufXQ&_nc_ss=7339b&_n",
+          "config_width": 480,
+          "config_height": 853
+         }
+        ],
+        "thumbnail_resources": [
+         {
+          "src": "https://scontent-lga3-2.cdninstagram.com/v/t51.82787-15/902585936_18096397430676845_6333739714173470336_n.jpg?stp=dst-jpg_e15_p480x480_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ig_cache_key=NDAyOTU3MTQwNDcyMTY4Njg4MDE4MDk2Mzk3NDI0Njc2ODQ1.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fdXNlcl9zZWxlY3RlZF90aHVtYm5haWwuQzMifQ%3D%3D&_nc_ohc=nFFYCVQNf30Q7kNvwGj6qVU&_nc_oc=Adqx3_MxfEPYb2fY-oe2WwoCGeYhV6c_BFwVXWZ28VEiEZEI-DMpw7qZiEJwQPNKxrk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_gid=l0FqoN5gUORuTSavpnufXQ&_nc_ss=7339b&_n",
+          "config_width": 480,
+          "config_height": 853
+         }
+        ],
+        "comments_disabled": false,
+        "edge_media_to_comment": {
+         "count": 285,
+         "page_info": {
+          "has_next_page": false,
+          "end_cursor": null
+         },
+         "edges": []
+        },
+        "url": "https://www.instagram.com/p/Dfr6dfPgglg/"
+       }
+      },
+      {
+       "node": {
+        "__typename": "XDTGraphVideo",
+        "__isXDTGraphMediaInterface": "XDTGraphVideo",
+        "id": "4027463463254504120",
+        "shortcode": "DfkbK5xJjK4",
+        "thumbnail_src": "https://scontent-lga3-1.cdninstagram.com/v/t51.82787-15/901047892_18088896314686232_8648846857270759580_n.jpg?stp=dst-jpg_e15_p480x480_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ig_cache_key=NDAyNzQ2MzQ2MzI1NDUwNDEyMDE4MDg4ODk2MzExNjg2MjMy.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fdXNlcl9zZWxlY3RlZF90aHVtYm5haWwuQzMifQ%3D%3D&_nc_ohc=MabLU-lf4dwQ7kNvwEn1wOD&_nc_oc=AdqeyP68p3tT76bPpcwjfdylWgkfwQMTaUO2YcoAbTsUyplhyQncSUo8sGfl9phViKU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_gid=l0FqoN5gUORuTSavpnufXQ&_nc_ss=7339b&_n",
+        "display_url": "https://scontent-lga3-1.cdninstagram.com/v/t51.82787-15/901047892_18088896314686232_8648846857270759580_n.jpg?stp=dst-jpg_e15_p480x480_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ig_cache_key=NDAyNzQ2MzQ2MzI1NDUwNDEyMDE4MDg4ODk2MzExNjg2MjMy.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fdXNlcl9zZWxlY3RlZF90aHVtYm5haWwuQzMifQ%3D%3D&_nc_ohc=MabLU-lf4dwQ7kNvwEn1wOD&_nc_oc=AdqeyP68p3tT76bPpcwjfdylWgkfwQMTaUO2YcoAbTsUyplhyQncSUo8sGfl9phViKU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_gid=l0FqoN5gUORuTSavpnufXQ&_nc_ss=7339b&_n",
+        "video_url": "https://scontent-lga3-1.cdninstagram.com/o1/v/t2/f2/m86/AQPZpzE-eJWLSFeelbdAkgmVjFNuyCVh1aA68PfTrsQwxgV6nPt4N3lL8lj6ao9H5i9yxtFitHVyj7B1iTlDAm4i9JVD8BGPqlq7-Jg.mp4?_nc_cat=104&_nc_sid=5e9851&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_ohc=WkQ6LbI3UlYQ7kNvwFZz0k1&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTY2MjI1Mjk3MjIzMTM4MSwiYXNzZXRfYWdlX2RheXMiOjQsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjo4MSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=8368aec343df76df&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJv",
+        "video_view_count": 27593,
+        "video_play_count": 27593,
+        "has_audio": true,
+        "product_type": "clips",
+        "video_duration": 81.616,
+        "is_video": true,
+        "owner": {
+         "id": "50540598231",
+         "username": "michael__mezz",
+         "is_verified": true,
+         "profile_pic_url": "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-19/459414608_1055826749268305_3875232650665053012_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ig_cache_key=GFAcYhtRoVXSRMADAFTL4lyQl8c1bkULAAAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=Mq7BbiOrqGAQ7kNvwGmJZQv&_nc_oc=Adr7q5w4p5-62_03lHWhGEFFw9QcApij259OmgmpZ3IazrHl4CFc6eP6j7GlWol9HOU&_nc_ad=z-m&_nc_cid=0&_nc_zt=24&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_ss=7339b&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQTkJj8lg4aJxCgOPkYgZvXv6clVwQ0NqEKDKh_so2Hr9g&oe=6AFF0",
+         "full_name": "michael mezzatesta",
+         "edge_followed_by": {
+          "count": 329922
+         }
+        },
+        "edge_media_to_caption": {
+         "edges": [
+          {
+           "node": {
+            "id": "4027463463254504120",
+            "text": "@isabella_m_weber explains why inflation and rising inequality go hand-in-hand: when there are price shocks for life\u2019s essentials that boost corporate profits, this is a mechanism for wealth redistribution from the working class to the ultra-rich.\n\nin the latest @betterfuturepod episode, we discuss economic policies that would reorient our priorities away from endless profits for the rich, and toward dignified livelihoods for all working people. the conversation is full of detail \u2014 comment \u201cep\u201d and i\u2019ll send it to you.\n\nthe discussion is based around Dr. Weber\u2019s new book, Anti-Fascist Economic",
+            "created_at": "1794331817"
+           }
+          }
+         ]
+        },
+        "created_at": "2026-11-10T17:30:17.000Z",
+        "taken_at_timestamp": 1794331817,
+        "edge_media_preview_like": {
+         "count": 1260,
+         "edges": []
+        },
+        "like_and_view_counts_disabled": false,
+        "comment_count": 5,
+        "edge_media_preview_comment": {
+         "count": 5,
+         "edges": []
+        },
+        "edge_media_to_parent_comment": {
+         "count": 5,
+         "edges": []
+        },
+        "edge_media_to_tagged_user": {
+         "edges": [
+          {
+           "node": {
+            "id": "4027463463254504120@39143276557",
+            "x": null,
+            "y": null,
+            "user": {
+             "id": "39143276557",
+             "username": "randomhousebooks",
+             "is_verified": true,
+             "profile_pic_url": "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-19/178676549_2879728368978627_5192537076101654657_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ig_cache_key=GEVjpgrDinsCGTsKAIGoFaD1mA9IbkULAAAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjcuQzMifQ%3D%3D&_nc_ohc=F7ma1tLc9ugQ7kNvwHZh_F6&_nc_oc=Adq0P0DA6NIKs-5bV6uaet28Lg-StmhYHgqN1wPXAsaCsqS0sDL4TrmL8MF4_oq-9nk&_nc_ad=z-m&_nc_cid=0&_nc_zt=24&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_ss=7339b&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQR0QPGtJvflD4odqlJaz5LRt5Ihy0uI7tpdp65xWQ1prg&oe=6AF",
+             "full_name": "Random House"
+            }
+           }
+          },
+          {
+           "node": {
+            "id": "4027463463254504120@59254995673",
+            "x": 0.0653594807,
+            "y": 0.0163398702,
+            "user": {
+             "id": "59254995673",
+             "username": "isabella_m_weber",
+             "is_verified": false,
+             "profile_pic_url": "https://scontent-lga3-2.cdninstagram.com/v/t51.82787-19/750054130_18000467453971674_7188862271165811048_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ig_cache_key=GPLqtCzajGJsVPM-AGjJC7wl_MNjbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=G5UU97fN8AgQ7kNvwHgqjUJ&_nc_oc=AdqmCfX3fLA9hcb-8b7B8DDsMb5cT-wyUrVCY_GThJLAKLkQ_-Mt6ToNqFM98nvsLL0&_nc_ad=z-m&_nc_cid=0&_nc_zt=24&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_gid=l0FqoN5gUORuTSavpnufXQ&_nc_ss=7339b&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQRW4ZRmHhC00s_4tffXnu",
+             "full_name": "Isabella M. Weber"
+            }
+           }
+          },
+          {
+           "node": {
+            "id": "4027463463254504120@72102327038",
+            "x": null,
+            "y": null,
+            "user": {
+             "id": "72102327038",
+             "username": "pop__economy",
+             "is_verified": false,
+             "profile_pic_url": "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-19/477662813_1140875223782976_8135856697615914896_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ig_cache_key=GF2OeBxAVnK2ng0EAJAX4ZSPXuhwbkULAAAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=Ds0oaEDxVhQQ7kNvwHqxFAI&_nc_oc=Adp60fKNaSEqBaIwWz9FYqQoFrVDKtPR_3xI4s66YyFcqK3YeMEOhDzL9z2_dqmaie8&_nc_ad=z-m&_nc_cid=0&_nc_zt=24&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_ss=7339b&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQTb0sBbmEQF9meeNlo1yKlcETDAOHS_rLBCL5xmaEo_xg&oe=6AFEF",
+             "full_name": "POP! Economy"
+            }
+           }
+          }
+         ]
+        },
+        "clips_music_attribution_info": {
+         "artist_name": "michael__mezz",
+         "song_name": "Original audio",
+         "uses_original_audio": true,
+         "should_mute_audio": false,
+         "should_mute_audio_reason": "",
+         "audio_id": "39855990754044878"
+        },
+        "clips_metadata": {
+         "originality_info": null,
+         "__rt_3c4e8bb6a59d": "XDTClipsMetadataDict",
+         "achievements_info": {
+          "num_earned_achievements": null,
+          "show_achievements": false
+         },
+         "additional_audio_info": {
+          "additional_audio_username": null,
+          "audio_reattribution_info": {
+           "should_allow_restore": false
+          }
+         },
+         "audio_ranking_info": {
+          "best_audio_cluster_id": "1874822217001504"
+         },
+         "audio_type": "original_sounds",
+         "branded_content_tag_info": {
+          "can_add_tag": false
+         },
+         "clips_creation_entry_point": "clips",
+         "content_appreciation_info": {
+          "enabled": false,
+          "entry_point_container": null
+         },
+         "contextual_highlight_info": null,
+         "disable_use_in_clips_client_cache": false,
+         "is_fan_club_promo_video": null,
+         "is_public_chat_welcome_video": false,
+         "is_shared_to_fb": false,
+         "mashup_info": {
+          "can_toggle_mashups_allowed": false,
+          "has_been_mashed_up": false,
+          "has_nonmimicable_additional_audio": false,
+          "is_creator_requesting_mashup": false,
+          "is_light_weight_check": true,
+          "is_pivot_page_available": false,
+          "mashup_type": null,
+          "mashups_allowed": false,
+          "non_privacy_filtered_mashups_media_count": 0,
+          "original_media": null
+         },
+         "merchandising_pill_info": null,
+         "music_canonical_id": "18637651669024863",
+         "music_info": null,
+         "original_sound_info": {
+          "allow_creator_to_rename": true,
+          "audio_asset_id": "39855990754044878",
+          "audio_filter_infos": [],
+          "audio_parts": [],
+          "audio_parts_by_filter": [],
+          "can_remix_be_shared_to_fb": false,
+          "can_remix_be_shared_to_fb_expansion": false,
+          "consumption_info": {
+           "is_bookmarked": false,
+           "is_trending_in_clips": false,
+           "should_mute_audio_reason": "",
+           "should_mute_audio_reason_type": null
+          },
+          "dash_manifest": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<MPD xmlns=\"urn:mpeg:dash:schema:mpd:2011\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"urn:mpeg:dash:schema:mpd:2011 DASH-MPD.xsd\" profiles=\"urn:mpeg:dash:profile:isoff-on-demand:2011\" minBufferTime=\"PT2S\" type=\"static\" mediaPresentationDuration=\"PT81.616692S\" FBDeliveryExperimentName=\"oa_ig4a_xhe_memory_v2\" FBDeliveryExperimentGroup=\"test_oa_ig4a_vbr123_xhe_20260928\" FBManifestTimestamp=\"1794716604\" FBManifestIdentifier=\"FvjOya8NKTbuxpCR7/TzBcKtvpfv9PMF7KDVmu/08wUcGBRvYV9pZzRhX3hoZV91bml2ZXJzZRgVb2FfaWc0YV94aGVfbWVtb3J5X3YyG",
+          "duration_in_ms": 81617,
+          "hide_remixing": true,
+          "ig_artist": {
+           "__typename": "XDTUserDict",
+           "strong_id__": "50540598231",
+           "id": "50540598231",
+           "full_name": "michael mezzatesta",
+           "is_private": false,
+           "is_verified": true,
+           "profile_pic_id": "3456807922095096845_50540598231",
+           "profile_pic_url": "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-19/459414608_1055826749268305_3875232650665053012_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ig_cache_key=GFAcYhtRoVXSRMADAFTL4lyQl8c1bkULAAAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=Mq7BbiOrqGAQ7kNvwGmJZQv&_nc_oc=Adr7q5w4p5-62_03lHWhGEFFw9QcApij259OmgmpZ3IazrHl4CFc6eP6j7GlWol9HOU&_nc_ad=z-m&_nc_cid=0&_nc_zt=24&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_ss=7339b&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQTkJj8lg4aJxCgOPkYgZvXv6clVwQ0NqEKDKh_so2Hr9g&oe=6AFF0",
+           "username": "michael__mezz"
+          },
+          "is_audio_automatically_attributed": false,
+          "is_eligible_for_audio_effects": true,
+          "is_explicit": false,
+          "is_original_audio_download_eligible": true,
+          "oa_owner_is_music_artist": false,
+          "is_reuse_disabled": false,
+          "is_xpost_from_fb": false,
+          "original_audio_subtype": "default",
+          "original_audio_title": "Original audio",
+          "original_media_id": "4027463463254504120",
+          "progressive_download_url": "https://scontent-lga3-3.cdninstagram.com/o1/v/t2/f2/m86/AQNvLgUTML3Vxa06AMtgZ9Z5PtAD1KhOp974qevb-H0N8Xou1SnljlR5O6COuHMhA04UKZ1Q6h5KuB0ObApCTip7JFZI9jMWNfI.mp4?_nc_cat=103&_nc_sid=ef5aa3&_nc_ht=scontent-lga3-3.cdninstagram.com&_nc_ohc=YB6g2q-H2xsQ7kNvwHANtQD&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMC5wcm9ncmVzc2l2ZV9hdWRpbyIsInhwdl9hc3NldF9pZCI6MTY2MjI1Mjk3MjIzMTM4MSwiYXNzZXRfYWdlX2RheXMiOjQsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjo4MSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=l0FqoN5gUORuTSavpnufXQ&_nc_ss=7a39b&_nc_map=urlgen_bucketless&_",
+          "should_mute_audio": false,
+          "time_created": 1794331819,
+          "fb_downstream_use_xpost_metadata": {
+           "downstream_use_xpost_deny_reason": "NONE"
+          }
+         },
+         "professional_clips_upsell_type": 0,
+         "shopping_info": null,
+         "show_achievements": false
+        },
+        "is_ad": false,
+        "is_paid_partnership": false,
+        "ai_label_info": null,
+        "location": null,
+        "coauthor_producers": [
+         {
+          "__typename": "XDTUserDict",
+          "strong_id__": "59254995673",
+          "id": null,
+          "full_name": "Isabella M. Weber",
+          "is_private": false,
+          "is_verified": false,
+          "profile_pic_id": "3942635488905311886_59254995673",
+          "profile_pic_url": "https://scontent-lga3-2.cdninstagram.com/v/t51.82787-19/750054130_18000467453971674_7188862271165811048_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ig_cache_key=GPLqtCzajGJsVPM-AGjJC7wl_MNjbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=G5UU97fN8AgQ7kNvwHgqjUJ&_nc_oc=AdqmCfX3fLA9hcb-8b7B8DDsMb5cT-wyUrVCY_GThJLAKLkQ_-Mt6ToNqFM98nvsLL0&_nc_ad=z-m&_nc_cid=0&_nc_zt=24&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_gid=l0FqoN5gUORuTSavpnufXQ&_nc_ss=7339b&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQRW4ZRmHhC00s_4tffXnu",
+          "username": "isabella_m_weber",
+          "user_activation_info": null,
+          "pk": "59254995673",
+          "friendship_status": null,
+          "is_unpublished": null,
+          "supervision_info": null
+         },
+         {
+          "__typename": "XDTUserDict",
+          "strong_id__": "72102327038",
+          "id": null,
+          "full_name": "POP! Economy",
+          "is_private": false,
+          "is_verified": false,
+          "profile_pic_id": "3566599335603527584_72102327038",
+          "profile_pic_url": "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-19/477662813_1140875223782976_8135856697615914896_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ig_cache_key=GF2OeBxAVnK2ng0EAJAX4ZSPXuhwbkULAAAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=Ds0oaEDxVhQQ7kNvwHqxFAI&_nc_oc=Adp60fKNaSEqBaIwWz9FYqQoFrVDKtPR_3xI4s66YyFcqK3YeMEOhDzL9z2_dqmaie8&_nc_ad=z-m&_nc_cid=0&_nc_zt=24&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_ss=7339b&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQTb0sBbmEQF9meeNlo1yKlcETDAOHS_rLBCL5xmaEo_xg&oe=6AFEF",
+          "username": "pop__economy",
+          "user_activation_info": null,
+          "pk": "72102327038",
+          "friendship_status": null,
+          "is_unpublished": null,
+          "supervision_info": null
+         },
+         {
+          "__typename": "XDTUserDict",
+          "strong_id__": "75086236617",
+          "id": null,
+          "full_name": "Better Future Podcast",
+          "is_private": false,
+          "is_verified": false,
+          "profile_pic_id": "3897719571352475181_75086236617",
+          "profile_pic_url": "https://scontent-lga3-1.cdninstagram.com/v/t51.82787-19/698324919_17889771300500618_3448920656500758766_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ig_cache_key=GLeXnymKtHr3po4-AO4YPF0QB90vbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDEwLkMzIn0%3D&_nc_ohc=-rjITx91cIMQ7kNvwGdeRNJ&_nc_oc=AdrCiv3UPUfD2duA861kOAGEBa6zE3Wtz6S1EjoJ2_gNZ1NFH_ppHALESfO6iC1fSD8&_nc_ad=z-m&_nc_cid=0&_nc_zt=24&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_gid=l0FqoN5gUORuTSavpnufXQ&_nc_ss=7339b&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQSzprmNZx14bFjYE8VLoZ",
+          "username": "betterfuturepod",
+          "user_activation_info": null,
+          "pk": "75086236617",
+          "friendship_status": null,
+          "is_unpublished": null,
+          "supervision_info": null
+         }
+        ],
+        "dimensions": {
+         "height": 1920,
+         "width": 1080
+        },
+        "display_resources": [
+         {
+          "src": "https://scontent-lga3-1.cdninstagram.com/v/t51.82787-15/901047892_18088896314686232_8648846857270759580_n.jpg?stp=dst-jpg_e15_p480x480_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ig_cache_key=NDAyNzQ2MzQ2MzI1NDUwNDEyMDE4MDg4ODk2MzExNjg2MjMy.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fdXNlcl9zZWxlY3RlZF90aHVtYm5haWwuQzMifQ%3D%3D&_nc_ohc=MabLU-lf4dwQ7kNvwEn1wOD&_nc_oc=AdqeyP68p3tT76bPpcwjfdylWgkfwQMTaUO2YcoAbTsUyplhyQncSUo8sGfl9phViKU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_gid=l0FqoN5gUORuTSavpnufXQ&_nc_ss=7339b&_n",
+          "config_width": 480,
+          "config_height": 853
+         }
+        ],
+        "thumbnail_resources": [
+         {
+          "src": "https://scontent-lga3-1.cdninstagram.com/v/t51.82787-15/901047892_18088896314686232_8648846857270759580_n.jpg?stp=dst-jpg_e15_p480x480_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ig_cache_key=NDAyNzQ2MzQ2MzI1NDUwNDEyMDE4MDg4ODk2MzExNjg2MjMy.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fdXNlcl9zZWxlY3RlZF90aHVtYm5haWwuQzMifQ%3D%3D&_nc_ohc=MabLU-lf4dwQ7kNvwEn1wOD&_nc_oc=AdqeyP68p3tT76bPpcwjfdylWgkfwQMTaUO2YcoAbTsUyplhyQncSUo8sGfl9phViKU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_gid=l0FqoN5gUORuTSavpnufXQ&_nc_ss=7339b&_n",
+          "config_width": 480,
+          "config_height": 853
+         }
+        ],
+        "comments_disabled": false,
+        "edge_media_to_comment": {
+         "count": 5,
+         "page_info": {
+          "has_next_page": false,
+          "end_cursor": null
+         },
+         "edges": []
+        },
+        "url": "https://www.instagram.com/p/DfkbK5xJjK4/"
+       }
+      },
+      {
+       "node": {
+        "__typename": "XDTGraphVideo",
+        "__isXDTGraphMediaInterface": "XDTGraphVideo",
+        "id": "4026020062780831395",
+        "shortcode": "DffS-qUpbaj",
+        "thumbnail_src": "https://scontent-lga3-1.cdninstagram.com/v/t51.82787-15/898800577_18088614926686232_6931425989523171260_n.jpg?stp=dst-jpg_e15_p480x480_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ig_cache_key=NDAyNjAyMDA2Mjc4MDgzMTM5NTE4MDg4NjE0OTIzNjg2MjMy.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjExNzkuc2RyLnZpZGVvX3VzZXJfc2VsZWN0ZWRfdGh1bWJuYWlsLkMzIn0%3D&_nc_ohc=YSAIViQzcJ4Q7kNvwEBLPgD&_nc_oc=AdoR2v39Qye3qCxAGb7bdZiO_8CsdKs-52cSDAw_si7W7Sjy6lPPrvw6-TbnffkZSh0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_gid=l0FqoN5gUORuTSavpnufXQ&_nc_ss=7339b&_nc_",
+        "display_url": "https://scontent-lga3-1.cdninstagram.com/v/t51.82787-15/898800577_18088614926686232_6931425989523171260_n.jpg?stp=dst-jpg_e15_p480x480_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ig_cache_key=NDAyNjAyMDA2Mjc4MDgzMTM5NTE4MDg4NjE0OTIzNjg2MjMy.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjExNzkuc2RyLnZpZGVvX3VzZXJfc2VsZWN0ZWRfdGh1bWJuYWlsLkMzIn0%3D&_nc_ohc=YSAIViQzcJ4Q7kNvwEBLPgD&_nc_oc=AdoR2v39Qye3qCxAGb7bdZiO_8CsdKs-52cSDAw_si7W7Sjy6lPPrvw6-TbnffkZSh0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_gid=l0FqoN5gUORuTSavpnufXQ&_nc_ss=7339b&_nc_",
+        "video_url": "https://scontent-lga3-3.cdninstagram.com/o1/v/t2/f2/m86/AQN9fYUoFuf77k6dmTwJQs0zxiLlWvjUdYRUyzuytL4UwDfvPpVuzVufTWX0op81Vd9WyX95EJs002pzybgZj_DJ7o4RAif_jlC0gVk.mp4?_nc_cat=100&_nc_sid=5e9851&_nc_ht=scontent-lga3-3.cdninstagram.com&_nc_ohc=CnEd29J-EIcQ7kNvwGvvGof&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MjE1NTE2ODkzNTM3MjU4OCwiYXNzZXRfYWdlX2RheXMiOjYsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjo5MiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=aad413ab24c5057&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZ",
+        "video_view_count": 220509,
+        "video_play_count": 220509,
+        "has_audio": true,
+        "product_type": "clips",
+        "video_duration": 92.785,
+        "is_video": true,
+        "owner": {
+         "id": "50540598231",
+         "username": "michael__mezz",
+         "is_verified": true,
+         "profile_pic_url": "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-19/459414608_1055826749268305_3875232650665053012_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ig_cache_key=GFAcYhtRoVXSRMADAFTL4lyQl8c1bkULAAAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=Mq7BbiOrqGAQ7kNvwGmJZQv&_nc_oc=Adr7q5w4p5-62_03lHWhGEFFw9QcApij259OmgmpZ3IazrHl4CFc6eP6j7GlWol9HOU&_nc_ad=z-m&_nc_cid=0&_nc_zt=24&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_ss=7339b&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQTkJj8lg4aJxCgOPkYgZvXv6clVwQ0NqEKDKh_so2Hr9g&oe=6AFF0",
+         "full_name": "michael mezzatesta",
+         "edge_followed_by": {
+          "count": 329922
+         }
+        },
+        "edge_media_to_caption": {
+         "edges": [
+          {
+           "node": {
+            "id": "4026020062780831395",
+            "text": "@isabella_m_weber explains why fascism and neoliberalism are natural siblings: they are both willing to treat parts of society as collateral damage. in the latest @betterfuturepod episode, we discuss what it would take to build an anti-fascist economy instead. comment \u201cep\u201d and we\u2019ll send you the full convo, which is full of specific economic policy ideas.\n\n#neoliberalism #economics \n#malthusianism #thatcher",
+            "created_at": "1794159377"
+           }
+          }
+         ]
+        },
+        "created_at": "2026-11-08T17:36:17.000Z",
+        "taken_at_timestamp": 1794159377,
+        "edge_media_preview_like": {
+         "count": 14374,
+         "edges": []
+        },
+        "like_and_view_counts_disabled": false,
+        "comment_count": 195,
+        "edge_media_preview_comment": {
+         "count": 195,
+         "edges": []
+        },
+        "edge_media_to_parent_comment": {
+         "count": 195,
+         "edges": []
+        },
+        "edge_media_to_tagged_user": {
+         "edges": [
+          {
+           "node": {
+            "id": "4026020062780831395@59254995673",
+            "x": null,
+            "y": null,
+            "user": {
+             "id": "59254995673",
+             "username": "isabella_m_weber",
+             "is_verified": false,
+             "profile_pic_url": "https://scontent-lga3-2.cdninstagram.com/v/t51.82787-19/750054130_18000467453971674_7188862271165811048_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ig_cache_key=GPLqtCzajGJsVPM-AGjJC7wl_MNjbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=G5UU97fN8AgQ7kNvwHgqjUJ&_nc_oc=AdqmCfX3fLA9hcb-8b7B8DDsMb5cT-wyUrVCY_GThJLAKLkQ_-Mt6ToNqFM98nvsLL0&_nc_ad=z-m&_nc_cid=0&_nc_zt=24&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_gid=l0FqoN5gUORuTSavpnufXQ&_nc_ss=7339b&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQRW4ZRmHhC00s_4tffXnu",
+             "full_name": "Isabella M. Weber"
+            }
+           }
+          },
+          {
+           "node": {
+            "id": "4026020062780831395@75086236617",
+            "x": null,
+            "y": null,
+            "user": {
+             "id": "75086236617",
+             "username": "betterfuturepod",
+             "is_verified": false,
+             "profile_pic_url": "https://scontent-lga3-1.cdninstagram.com/v/t51.82787-19/698324919_17889771300500618_3448920656500758766_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ig_cache_key=GLeXnymKtHr3po4-AO4YPF0QB90vbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDEwLkMzIn0%3D&_nc_ohc=-rjITx91cIMQ7kNvwGdeRNJ&_nc_oc=AdrCiv3UPUfD2duA861kOAGEBa6zE3Wtz6S1EjoJ2_gNZ1NFH_ppHALESfO6iC1fSD8&_nc_ad=z-m&_nc_cid=0&_nc_zt=24&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_gid=l0FqoN5gUORuTSavpnufXQ&_nc_ss=7339b&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQSzprmNZx14bFjYE8VLoZ",
+             "full_name": "Better Future Podcast"
+            }
+           }
+          }
+         ]
+        },
+        "clips_music_attribution_info": {
+         "artist_name": "michael__mezz",
+         "song_name": "Original audio",
+         "uses_original_audio": true,
+         "should_mute_audio": false,
+         "should_mute_audio_reason": "",
+         "audio_id": "29789145510691037"
+        },
+        "clips_metadata": {
+         "originality_info": null,
+         "__rt_3c4e8bb6a59d": "XDTClipsMetadataDict",
+         "achievements_info": {
+          "num_earned_achievements": null,
+          "show_achievements": false
+         },
+         "additional_audio_info": {
+          "additional_audio_username": null,
+          "audio_reattribution_info": {
+           "should_allow_restore": false
+          }
+         },
+         "audio_ranking_info": {
+          "best_audio_cluster_id": null
+         },
+         "audio_type": "original_sounds",
+         "branded_content_tag_info": {
+          "can_add_tag": false
+         },
+         "clips_creation_entry_point": "clips",
+         "content_appreciation_info": {
+          "enabled": false,
+          "entry_point_container": null
+         },
+         "contextual_highlight_info": null,
+         "disable_use_in_clips_client_cache": false,
+         "is_fan_club_promo_video": null,
+         "is_public_chat_welcome_video": false,
+         "is_shared_to_fb": false,
+         "mashup_info": {
+          "can_toggle_mashups_allowed": false,
+          "has_been_mashed_up": false,
+          "has_nonmimicable_additional_audio": false,
+          "is_creator_requesting_mashup": false,
+          "is_light_weight_check": true,
+          "is_pivot_page_available": false,
+          "mashup_type": null,
+          "mashups_allowed": false,
+          "non_privacy_filtered_mashups_media_count": 0,
+          "original_media": null
+         },
+         "merchandising_pill_info": null,
+         "music_canonical_id": "18498439621107400",
+         "music_info": null,
+         "original_sound_info": {
+          "allow_creator_to_rename": true,
+          "audio_asset_id": "29789145510691037",
+          "audio_filter_infos": [],
+          "audio_parts": [],
+          "audio_parts_by_filter": [],
+          "can_remix_be_shared_to_fb": false,
+          "can_remix_be_shared_to_fb_expansion": false,
+          "consumption_info": {
+           "is_bookmarked": false,
+           "is_trending_in_clips": false,
+           "should_mute_audio_reason": "",
+           "should_mute_audio_reason_type": null
+          },
+          "dash_manifest": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<MPD xmlns=\"urn:mpeg:dash:schema:mpd:2011\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"urn:mpeg:dash:schema:mpd:2011 DASH-MPD.xsd\" profiles=\"urn:mpeg:dash:profile:isoff-on-demand:2011\" minBufferTime=\"PT2S\" type=\"static\" mediaPresentationDuration=\"PT92.785484S\" FBDeliveryExperimentName=\"oa_ig4a_xhe_memory_v2\" FBDeliveryExperimentGroup=\"test_oa_ig4a_vbr123_xhe_20260928\" FBManifestTimestamp=\"1794716604\" FBManifestIdentifier=\"FvjOya8NKTa6hPml1ofUB7jeva/Wh9QH4tHUstaH1AccGBRvYV9pZzRhX3hoZV91bml2ZXJzZRgVb2FfaWc0YV94aGVfbWVtb3J5X3YyG",
+          "duration_in_ms": 92000,
+          "hide_remixing": true,
+          "ig_artist": {
+           "__typename": "XDTUserDict",
+           "strong_id__": "50540598231",
+           "id": "50540598231",
+           "full_name": "michael mezzatesta",
+           "is_private": false,
+           "is_verified": true,
+           "profile_pic_id": "3456807922095096845_50540598231",
+           "profile_pic_url": "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-19/459414608_1055826749268305_3875232650665053012_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ig_cache_key=GFAcYhtRoVXSRMADAFTL4lyQl8c1bkULAAAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=Mq7BbiOrqGAQ7kNvwGmJZQv&_nc_oc=Adr7q5w4p5-62_03lHWhGEFFw9QcApij259OmgmpZ3IazrHl4CFc6eP6j7GlWol9HOU&_nc_ad=z-m&_nc_cid=0&_nc_zt=24&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_ss=7339b&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQTkJj8lg4aJxCgOPkYgZvXv6clVwQ0NqEKDKh_so2Hr9g&oe=6AFF0",
+           "username": "michael__mezz"
+          },
+          "is_audio_automatically_attributed": false,
+          "is_eligible_for_audio_effects": true,
+          "is_explicit": false,
+          "is_original_audio_download_eligible": true,
+          "oa_owner_is_music_artist": false,
+          "is_reuse_disabled": false,
+          "is_xpost_from_fb": false,
+          "original_audio_subtype": "default",
+          "original_audio_title": "Original audio",
+          "original_media_id": "4026020062780831395",
+          "progressive_download_url": "https://scontent-lga3-1.cdninstagram.com/o1/v/t2/f2/m86/AQPXegbmTPhopgat-irBvMq25CDeRxPIDEpTNXEAqqBZgLPmrRlfqNyA8dLPRjiVnT8UxW4K4_Xr3KtTJHkQnJGa7ZKW6IOU2ZI.mp4?_nc_cat=103&_nc_sid=ef5aa3&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_ohc=JkxNkZCiBCoQ7kNvwHH0olP&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMC5wcm9ncmVzc2l2ZV9hdWRpbyIsInhwdl9hc3NldF9pZCI6MjE1NTE2ODkzNTM3MjU4OCwiYXNzZXRfYWdlX2RheXMiOjYsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjo5MiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=l0FqoN5gUORuTSavpnufXQ&_nc_ss=7a39b&_nc_map=urlgen_bucketless&_",
+          "should_mute_audio": false,
+          "time_created": 1794159301,
+          "fb_downstream_use_xpost_metadata": {
+           "downstream_use_xpost_deny_reason": "NONE"
+          }
+         },
+         "professional_clips_upsell_type": 0,
+         "shopping_info": null,
+         "show_achievements": false
+        },
+        "is_ad": false,
+        "is_paid_partnership": false,
+        "ai_label_info": null,
+        "location": null,
+        "coauthor_producers": [
+         {
+          "__typename": "XDTUserDict",
+          "strong_id__": "59254995673",
+          "id": null,
+          "full_name": "Isabella M. Weber",
+          "is_private": false,
+          "is_verified": false,
+          "profile_pic_id": "3942635488905311886_59254995673",
+          "profile_pic_url": "https://scontent-lga3-2.cdninstagram.com/v/t51.82787-19/750054130_18000467453971674_7188862271165811048_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ig_cache_key=GPLqtCzajGJsVPM-AGjJC7wl_MNjbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=G5UU97fN8AgQ7kNvwHgqjUJ&_nc_oc=AdqmCfX3fLA9hcb-8b7B8DDsMb5cT-wyUrVCY_GThJLAKLkQ_-Mt6ToNqFM98nvsLL0&_nc_ad=z-m&_nc_cid=0&_nc_zt=24&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_gid=l0FqoN5gUORuTSavpnufXQ&_nc_ss=7339b&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQRW4ZRmHhC00s_4tffXnu",
+          "username": "isabella_m_weber",
+          "user_activation_info": null,
+          "pk": "59254995673",
+          "friendship_status": null,
+          "is_unpublished": null,
+          "supervision_info": null
+         },
+         {
+          "__typename": "XDTUserDict",
+          "strong_id__": "75086236617",
+          "id": null,
+          "full_name": "Better Future Podcast",
+          "is_private": false,
+          "is_verified": false,
+          "profile_pic_id": "3897719571352475181_75086236617",
+          "profile_pic_url": "https://scontent-lga3-1.cdninstagram.com/v/t51.82787-19/698324919_17889771300500618_3448920656500758766_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ig_cache_key=GLeXnymKtHr3po4-AO4YPF0QB90vbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDEwLkMzIn0%3D&_nc_ohc=-rjITx91cIMQ7kNvwGdeRNJ&_nc_oc=AdrCiv3UPUfD2duA861kOAGEBa6zE3Wtz6S1EjoJ2_gNZ1NFH_ppHALESfO6iC1fSD8&_nc_ad=z-m&_nc_cid=0&_nc_zt=24&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_gid=l0FqoN5gUORuTSavpnufXQ&_nc_ss=7339b&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQSzprmNZx14bFjYE8VLoZ",
+          "username": "betterfuturepod",
+          "user_activation_info": null,
+          "pk": "75086236617",
+          "friendship_status": null,
+          "is_unpublished": null,
+          "supervision_info": null
+         }
+        ],
+        "dimensions": {
+         "height": 1920,
+         "width": 1080
+        },
+        "display_resources": [
+         {
+          "src": "https://scontent-lga3-1.cdninstagram.com/v/t51.82787-15/898800577_18088614926686232_6931425989523171260_n.jpg?stp=dst-jpg_e15_p480x480_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ig_cache_key=NDAyNjAyMDA2Mjc4MDgzMTM5NTE4MDg4NjE0OTIzNjg2MjMy.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjExNzkuc2RyLnZpZGVvX3VzZXJfc2VsZWN0ZWRfdGh1bWJuYWlsLkMzIn0%3D&_nc_ohc=YSAIViQzcJ4Q7kNvwEBLPgD&_nc_oc=AdoR2v39Qye3qCxAGb7bdZiO_8CsdKs-52cSDAw_si7W7Sjy6lPPrvw6-TbnffkZSh0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_gid=l0FqoN5gUORuTSavpnufXQ&_nc_ss=7339b&_nc_",
+          "config_width": 480,
+          "config_height": 853
+         }
+        ],
+        "thumbnail_resources": [
+         {
+          "src": "https://scontent-lga3-1.cdninstagram.com/v/t51.82787-15/898800577_18088614926686232_6931425989523171260_n.jpg?stp=dst-jpg_e15_p480x480_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ig_cache_key=NDAyNjAyMDA2Mjc4MDgzMTM5NTE4MDg4NjE0OTIzNjg2MjMy.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjExNzkuc2RyLnZpZGVvX3VzZXJfc2VsZWN0ZWRfdGh1bWJuYWlsLkMzIn0%3D&_nc_ohc=YSAIViQzcJ4Q7kNvwEBLPgD&_nc_oc=AdoR2v39Qye3qCxAGb7bdZiO_8CsdKs-52cSDAw_si7W7Sjy6lPPrvw6-TbnffkZSh0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_gid=l0FqoN5gUORuTSavpnufXQ&_nc_ss=7339b&_nc_",
+          "config_width": 480,
+          "config_height": 853
+         }
+        ],
+        "comments_disabled": false,
+        "edge_media_to_comment": {
+         "count": 195,
+         "page_info": {
+          "has_next_page": false,
+          "end_cursor": null
+         },
+         "edges": []
+        },
+        "url": "https://www.instagram.com/p/DffS-qUpbaj/"
+       }
+      }
+     ]
+    }
+   }
+  },
+  "status": "ok"
+ }
+}

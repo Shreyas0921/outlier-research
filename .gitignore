@@ -1,0 +1,17 @@
+# Secrets and personal settings
+.env
+config.yaml
+
+# Local data the tool writes
+state/
+runs/
+reports/
+notes/
+
+# Python
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+
+.DS_Store

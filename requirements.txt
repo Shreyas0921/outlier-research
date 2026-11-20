@@ -1,0 +1,6 @@
+requests>=2.31,<3
+pyyaml>=6.0,<7
+python-dotenv>=1.0,<2
+pytest>=8.0,<9
+yt-dlp>=2025.1.1
+opencv-python-headless>=4.8  # face check on Linux (YuNet); macOS uses Vision

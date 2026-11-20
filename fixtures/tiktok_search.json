@@ -1,0 +1,358 @@
+{
+ "request": {
+  "n": 6,
+  "path": "/v1/tiktok/search/keyword",
+  "params": {
+   "query": "philosophy"
+  },
+  "status": 200,
+  "credits": 1
+ },
+ "response": {
+  "success": true,
+  "credits_remaining": 94,
+  "credits_charged": 1,
+  "search_item_list": [
+   {
+    "type": null,
+    "aweme_info": {
+     "aweme_id": "7701351936750062870",
+     "desc": "#machiavelli #Philosophy #Stoicism #darkpyschology #foryou ",
+     "create_time": 1793110735,
+     "author": {
+      "uid": "7677553887321031702",
+      "unique_id": "ranking5_1",
+      "nickname": "RESSILINCE",
+      "follower_count": 13080,
+      "sec_uid": "MS4wLjABAAAAlor7I9_h9WXjllspSZXjNYHW-pcqb4KCuNVc0JTyUslu1QWrYS0e29za0o84AZ33"
+     },
+     "statistics": {
+      "aweme_id": "7701351936750062870",
+      "collect_count": 4846,
+      "comment_count": 109,
+      "digg_count": 17993,
+      "download_count": 1357,
+      "forward_count": 0,
+      "lose_comment_count": 0,
+      "lose_count": 0,
+      "play_count": 187246,
+      "repost_count": 0,
+      "share_count": 1483,
+      "whatsapp_share_count": 178
+     },
+     "video": {
+      "duration": 73585,
+      "width": 576,
+      "height": 576,
+      "has_watermark": false,
+      "play_addr": {
+       "url_list": [
+        "https://v16m.tiktokcdn-us.com/12eab6c3071b8f137260be523758e75c/6af9887d/video/tos/no1a/tos-no1a-ve-0068c001-no/osOZbgEHxi3BwuYsBnCsjCLuI3iBuqd1QaAPE/?a=1233&bti=NTY6QGo0QHM6OjZANDQuYCMucCMxNDNg&&bt=316&ft=gKfIn8QLodzR12NvmhFKzIxRWilEt3_45SY&mime_type=video_mp4&rc=O2c4NDQ2OWlpOjs0ZTZlN0BpMzp4OnE5cmtlZTMzbzczNUBeYi00NWJhX14xYV9fX18tYSNqaGA0MmQ0LmRhLS1kMTFzcw%3D%3D&vvpl=1&l=202611150423471C6F70D5D4A368A15311&btag=e00090000",
+        "https://v19.tiktokcdn-us.com/186411d9680d64d199eb5f1e9393f0c4/6af9887d/video/tos/no1a/tos-no1a-ve-0068c001-no/osOZbgEHxi3BwuYsBnCsjCLuI3iBuqd1QaAPE/?a=1233&bti=NTY6QGo0QHM6OjZANDQuYCMucCMxNDNg&&bt=316&ft=gKfIn8QLodzR12NvmhFKzIxRWilEt3_45SY&mime_type=video_mp4&rc=O2c4NDQ2OWlpOjs0ZTZlN0BpMzp4OnE5cmtlZTMzbzczNUBeYi00NWJhX14xYV9fX18tYSNqaGA0MmQ0LmRhLS1kMTFzcw%3D%3D&vvpl=1&l=202611150423471C6F70D5D4A368A15311&btag=e00090000",
+        "https://api16-normal-useast5.tiktokv.us/aweme/v1/play/?faid=1233&file_id=04bbb3bbb1d847afbfd6e3817105eda8&is_play_url=1&item_id=7701351936750062870&line=0&pt=dGlrdG9rLnNlYXJjaC5hcGkmL2F3ZW1lL3YxL3NlYXJjaC9pdGVtLyYyMDI2MTExNTA0MjM0NzFDNkY3MEQ1RDRBMzY4QTE1MzExJjE3OTQ3MTY2MjgmNWIyNTUxNjIyOWFl&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLmE3ZTk4MTU5OWQ5NmM3Y2ZjNjY0OTQ5MDczZDk0YThj&source=SEARCH&video_id=v24044gl0000dbgb1h7og65n77cuk7m0"
+       ],
+       "width": 576,
+       "height": 576,
+       "data_size": 2978926
+      },
+      "download_no_watermark_addr": {
+       "url_list": [
+        "https://v16m.tiktokcdn-us.com/12eab6c3071b8f137260be523758e75c/6af9887d/video/tos/no1a/tos-no1a-ve-0068c001-no/osOZbgEHxi3BwuYsBnCsjCLuI3iBuqd1QaAPE/?a=1233&bti=NTY6QGo0QHM6OjZANDQuYCMucCMxNDNg&&bt=316&ft=gKfIn8QLodzR12NvmhFKzIxRWilEt3_45SY&mime_type=video_mp4&rc=O2c4NDQ2OWlpOjs0ZTZlN0BpMzp4OnE5cmtlZTMzbzczNUBeYi00NWJhX14xYV9fX18tYSNqaGA0MmQ0LmRhLS1kMTFzcw%3D%3D&vvpl=1&l=202611150423471C6F70D5D4A368A15311&btag=e00090000",
+        "https://v19.tiktokcdn-us.com/186411d9680d64d199eb5f1e9393f0c4/6af9887d/video/tos/no1a/tos-no1a-ve-0068c001-no/osOZbgEHxi3BwuYsBnCsjCLuI3iBuqd1QaAPE/?a=1233&bti=NTY6QGo0QHM6OjZANDQuYCMucCMxNDNg&&bt=316&ft=gKfIn8QLodzR12NvmhFKzIxRWilEt3_45SY&mime_type=video_mp4&rc=O2c4NDQ2OWlpOjs0ZTZlN0BpMzp4OnE5cmtlZTMzbzczNUBeYi00NWJhX14xYV9fX18tYSNqaGA0MmQ0LmRhLS1kMTFzcw%3D%3D&vvpl=1&l=202611150423471C6F70D5D4A368A15311&btag=e00090000",
+        "https://api16-normal-useast5.tiktokv.us/aweme/v1/play/?faid=1233&file_id=04bbb3bbb1d847afbfd6e3817105eda8&is_play_url=1&item_id=7701351936750062870&line=0&pt=dGlrdG9rLnNlYXJjaC5hcGkmL2F3ZW1lL3YxL3NlYXJjaC9pdGVtLyYyMDI2MTExNTA0MjM0NzFDNkY3MEQ1RDRBMzY4QTE1MzExJjE3OTQ3MTY2MjgmNWIyNTUxNjIyOWFl&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLmE3ZTk4MTU5OWQ5NmM3Y2ZjNjY0OTQ5MDczZDk0YThj&source=SEARCH&video_id=v24044gl0000dbgb1h7og65n77cuk7m0"
+       ],
+       "width": 576,
+       "height": 576,
+       "data_size": 2978926
+      },
+      "download_addr": {
+       "url_list": [
+        "https://api16-normal-useast5.tiktokv.us/aweme/v1/play/?video_id=v24044gl0000dbgb1h7og65n77cuk7m0&line=0&watermark=0&logo_name=tiktok_m&source=SEARCH&file_id=04bbb3bbb1d847afbfd6e3817105eda8&item_id=7701351936750062870&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLmE3ZTk4MTU5OWQ5NmM3Y2ZjNjY0OTQ5MDczZDk0YThj&shp=d05b14bd&shcp=-"
+       ],
+       "width": 720,
+       "height": 720,
+       "data_size": 2978926
+      }
+     },
+     "share_url": "https://www.tiktok.com/@ranking5_1/video/7701351936750062870?_r=1&u_code=ebmhchc94edfbg&preview_pb=0&sharer_language=en&_d=f1i4iife30f62i&share_item_id=7701351936750062870&source=h5_m",
+     "is_top": 0,
+     "aweme_type": 0
+    }
+   },
+   {
+    "type": null,
+    "aweme_info": {
+     "aweme_id": "7670035626489548045",
+     "desc": "To be happy you must eliminate 2 things. #deepthoughts #philosophy #poetry ",
+     "create_time": 1785819342,
+     "author": {
+      "uid": "7608881440151290893",
+      "unique_id": "mind.observatory",
+      "nickname": "Mind Observatory",
+      "follower_count": 83519,
+      "sec_uid": "MS4wLjABAAAArY1YNYb5-UFkAMZ0ImDwTLcN7mItpX_h6jIXTnTaJrFsnoHUFbCLZ4RwmJZ0dz4V"
+     },
+     "statistics": {
+      "aweme_id": "7670035626489548045",
+      "collect_count": 65292,
+      "comment_count": 958,
+      "digg_count": 257495,
+      "download_count": 14027,
+      "forward_count": 0,
+      "lose_comment_count": 0,
+      "lose_count": 0,
+      "play_count": 2431939,
+      "repost_count": 0,
+      "share_count": 24250,
+      "whatsapp_share_count": 1502
+     },
+     "video": {
+      "duration": 60883,
+      "width": 720,
+      "height": 1280,
+      "has_watermark": true,
+      "play_addr": {
+       "url_list": [
+        "https://v16m.tiktokcdn-us.com/c6c651eb815071147d854a00616c3105/6af98870/video/tos/useast5/tos-useast5-ve-0068c002-tx/oUB8gcQJuKiRIKYEFEOUVKiwEzxPnadXAcB4v/?a=1233&bti=NTY6QGo0QHM6OjZANDQuYCMucCMxNDNg&&bt=635&ft=gKfIn8QLodzR12NvmhFKzIxRWilEt3_45SY&mime_type=video_mp4&rc=NDw1OmQ8aDdmOzc2O2hlOkBpM2Q7bG05cnZwPDMzZzczNEBfMzIxYWAyXy0xYzIuLzA2YSNgaDZeMmQ0c2xhLS1kMS9zcw%3D%3D&vvpl=1&l=202611150423471C6F70D5D4A368A15311&btag=e00090000",
+        "https://v19.tiktokcdn-us.com/e3d0d1aee2ad10f5620f78468fe4b42f/6af98870/video/tos/useast5/tos-useast5-ve-0068c002-tx/oUB8gcQJuKiRIKYEFEOUVKiwEzxPnadXAcB4v/?a=1233&bti=NTY6QGo0QHM6OjZANDQuYCMucCMxNDNg&&bt=635&ft=gKfIn8QLodzR12NvmhFKzIxRWilEt3_45SY&mime_type=video_mp4&rc=NDw1OmQ8aDdmOzc2O2hlOkBpM2Q7bG05cnZwPDMzZzczNEBfMzIxYWAyXy0xYzIuLzA2YSNgaDZeMmQ0c2xhLS1kMS9zcw%3D%3D&vvpl=1&l=202611150423471C6F70D5D4A368A15311&btag=e00090000",
+        "https://api16-normal-useast5.tiktokv.us/aweme/v1/play/?faid=1233&file_id=973b2e1853f4480cb45ec9da475269b1&is_play_url=1&item_id=7670035626489548045&line=0&pt=dGlrdG9rLnNlYXJjaC5hcGkmL2F3ZW1lL3YxL3NlYXJjaC9pdGVtLyYyMDI2MTExNTA0MjM0NzFDNkY3MEQ1RDRBMzY4QTE1MzExJjE3OTQ3MTY2MjgmNWIyNTUxNjIyOWFl&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLjNhNmYzODljZjY2NGRhZTEwZGEzMjdkMmFkYjg1NjBl&source=SEARCH&video_id=v12044gd0000d9omvs7og65jai98kac0"
+       ],
+       "width": 720,
+       "height": 1280,
+       "data_size": 4955293
+      },
+      "download_no_watermark_addr": {
+       "url_list": [
+        "https://v16m.tiktokcdn-us.com/c6c651eb815071147d854a00616c3105/6af98870/video/tos/useast5/tos-useast5-ve-0068c002-tx/oUB8gcQJuKiRIKYEFEOUVKiwEzxPnadXAcB4v/?a=1233&bti=NTY6QGo0QHM6OjZANDQuYCMucCMxNDNg&&bt=635&ft=gKfIn8QLodzR12NvmhFKzIxRWilEt3_45SY&mime_type=video_mp4&rc=NDw1OmQ8aDdmOzc2O2hlOkBpM2Q7bG05cnZwPDMzZzczNEBfMzIxYWAyXy0xYzIuLzA2YSNgaDZeMmQ0c2xhLS1kMS9zcw%3D%3D&vvpl=1&l=202611150423471C6F70D5D4A368A15311&btag=e00090000",
+        "https://v19.tiktokcdn-us.com/e3d0d1aee2ad10f5620f78468fe4b42f/6af98870/video/tos/useast5/tos-useast5-ve-0068c002-tx/oUB8gcQJuKiRIKYEFEOUVKiwEzxPnadXAcB4v/?a=1233&bti=NTY6QGo0QHM6OjZANDQuYCMucCMxNDNg&&bt=635&ft=gKfIn8QLodzR12NvmhFKzIxRWilEt3_45SY&mime_type=video_mp4&rc=NDw1OmQ8aDdmOzc2O2hlOkBpM2Q7bG05cnZwPDMzZzczNEBfMzIxYWAyXy0xYzIuLzA2YSNgaDZeMmQ0c2xhLS1kMS9zcw%3D%3D&vvpl=1&l=202611150423471C6F70D5D4A368A15311&btag=e00090000",
+        "https://api16-normal-useast5.tiktokv.us/aweme/v1/play/?faid=1233&file_id=973b2e1853f4480cb45ec9da475269b1&is_play_url=1&item_id=7670035626489548045&line=0&pt=dGlrdG9rLnNlYXJjaC5hcGkmL2F3ZW1lL3YxL3NlYXJjaC9pdGVtLyYyMDI2MTExNTA0MjM0NzFDNkY3MEQ1RDRBMzY4QTE1MzExJjE3OTQ3MTY2MjgmNWIyNTUxNjIyOWFl&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLjNhNmYzODljZjY2NGRhZTEwZGEzMjdkMmFkYjg1NjBl&source=SEARCH&video_id=v12044gd0000d9omvs7og65jai98kac0"
+       ],
+       "width": 720,
+       "height": 1280,
+       "data_size": 4955293
+      },
+      "download_addr": {
+       "url_list": [
+        "https://v16m.tiktokcdn-us.com/9a974202640d29dceaf3dc3776c9ceed/6af98870/video/tos/useast5/tos-useast5-pve-0068-tx/osUz8BEnzPqEQcEavSFVYBgJiiKKp4QAOIVxK/?a=1233&bti=NTY6QGo0QHM6OjZANDQuYCMucCMxNDNg&&bt=576&ft=gKfIn8QLodzR12NvmhFKzIxRWilEt3_45SY&mime_type=video_mp4&rc=OTxpPDs8Z2Y7MzxpNTQ0aEBpM2Q7bG05cnZwPDMzZzczNEBjYmI0NF80NTQxLy40MS4uYSNgaDZeMmQ0c2xhLS1kMS9zcw%3D%3D&vvpl=1&l=202611150423471C6F70D5D4A368A15311&btag=e00090000",
+        "https://v19.tiktokcdn-us.com/377277d3a974408a25d9e2e00fa5cfd7/6af98870/video/tos/useast5/tos-useast5-pve-0068-tx/osUz8BEnzPqEQcEavSFVYBgJiiKKp4QAOIVxK/?a=1233&bti=NTY6QGo0QHM6OjZANDQuYCMucCMxNDNg&&bt=576&ft=gKfIn8QLodzR12NvmhFKzIxRWilEt3_45SY&mime_type=video_mp4&rc=OTxpPDs8Z2Y7MzxpNTQ0aEBpM2Q7bG05cnZwPDMzZzczNEBjYmI0NF80NTQxLy40MS4uYSNgaDZeMmQ0c2xhLS1kMS9zcw%3D%3D&vvpl=1&l=202611150423471C6F70D5D4A368A15311&btag=e00090000",
+        "https://api16-normal-useast5.tiktokv.us/aweme/v1/play/?video_id=v12044gd0000d9omvs7og65jai98kac0&line=0&watermark=1&logo_name=tiktok_m&source=SEARCH&file_id=1e1141721f2940788c7db97879efe9f6&item_id=7670035626489548045&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLmU2Y2ZjYWRjMTNjYWI3MThhZGY3MzQwNTAyZGM5MjAy&shp=d05b14bd&shcp=-"
+       ],
+       "width": 720,
+       "height": 720,
+       "data_size": 4495359
+      }
+     },
+     "share_url": "https://www.tiktok.com/@mind.observatory/video/7670035626489548045?_r=1&u_code=ebmhchc94edfbg&preview_pb=0&sharer_language=en&_d=f1i4iife30f62i&share_item_id=7670035626489548045&source=h5_m",
+     "is_top": 0,
+     "aweme_type": 0
+    }
+   },
+   {
+    "type": null,
+    "aweme_info": {
+     "aweme_id": "7696537604115746069",
+     "desc": "Being different comes at a price, but surrendering your individuality to please fools costs you far more\u2014acquire The Fool and the Wise through my profile bio and learn to see through human nature before it controls you. #Nietzsche #Philosophy #Stoicism #SelfMastery #LifeLessons",
+     "create_time": 1791989808,
+     "author": {
+      "uid": "7599486039740351508",
+      "unique_id": "codeofpower1",
+      "nickname": "CodeOfPower",
+      "follower_count": 233026,
+      "sec_uid": "MS4wLjABAAAAQp6yalal4CTSW5Wckbr1-i05B5o74-Ci3Gk-QP5TQYIk1IU1cKpUVaCejqioO1rw"
+     },
+     "statistics": {
+      "aweme_id": "7696537604115746069",
+      "collect_count": 13089,
+      "comment_count": 540,
+      "digg_count": 49833,
+      "download_count": 856,
+      "forward_count": 0,
+      "lose_comment_count": 0,
+      "lose_count": 0,
+      "play_count": 627169,
+      "repost_count": 0,
+      "share_count": 8961,
+      "whatsapp_share_count": 1959
+     },
+     "video": {
+      "duration": 44500,
+      "width": 576,
+      "height": 768,
+      "has_watermark": true,
+      "play_addr": {
+       "url_list": [
+        "https://v16m.tiktokcdn-us.com/953a228c15b30105aae682f2b13bdd70/6af98860/video/tos/alisg/tos-alisg-pve-0037c001/ogx1v4XupAN5LIL4wIioZm0BBP3UQDeigCAjPE/?a=1233&bti=NEBzNTY6QGo6OjZALnAjNDQuYCMxNDNg&&bt=133&ft=gKfIn8QLodzR12NvmhFKzIxRWilEt3_45SY&mime_type=video_mp4&rc=ZzMzN2U0N2ZmNDloNzQ7aEBpM25zd3M5cjRzZTMzODczNUBjMy80YF40NWIxYy0wL19eYSNoLXFsMmQ0YjRhLS1kMTZzcw%3D%3D&vvpl=1&l=202611150423471C6F70D5D4A368A15311&btag=e00088000",
+        "https://v19.tiktokcdn-us.com/2e4fe28113b8801bfbd7b78a8eab68d8/6af98860/video/tos/alisg/tos-alisg-pve-0037c001/ogx1v4XupAN5LIL4wIioZm0BBP3UQDeigCAjPE/?a=1233&bti=NEBzNTY6QGo6OjZALnAjNDQuYCMxNDNg&&bt=133&ft=gKfIn8QLodzR12NvmhFKzIxRWilEt3_45SY&mime_type=video_mp4&rc=ZzMzN2U0N2ZmNDloNzQ7aEBpM25zd3M5cjRzZTMzODczNUBjMy80YF40NWIxYy0wL19eYSNoLXFsMmQ0YjRhLS1kMTZzcw%3D%3D&vvpl=1&l=202611150423471C6F70D5D4A368A15311&btag=e00088000",
+        "https://api16-normal-useast5.tiktokv.us/aweme/v1/play/?faid=1233&file_id=aeb821340ef641ec8c74a1cb742060fd&is_play_url=1&item_id=7696537604115746069&line=0&pt=dGlrdG9rLnNlYXJjaC5hcGkmL2F3ZW1lL3YxL3NlYXJjaC9pdGVtLyYyMDI2MTExNTA0MjM0NzFDNkY3MEQ1RDRBMzY4QTE1MzExJjE3OTQ3MTY2MjgmNWIyNTUxNjIyOWFl&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLmE3MDU4N2Y2Zjg5ZDliZjcxMzMxMGMxODZjZGI3Nzkx&source=SEARCH&video_id=v29044g50000db7pe17og65pottp0kk0"
+       ],
+       "width": 576,
+       "height": 768,
+       "data_size": 763096
+      },
+      "download_no_watermark_addr": {
+       "url_list": [
+        "https://v16m.tiktokcdn-us.com/953a228c15b30105aae682f2b13bdd70/6af98860/video/tos/alisg/tos-alisg-pve-0037c001/ogx1v4XupAN5LIL4wIioZm0BBP3UQDeigCAjPE/?a=1233&bti=NEBzNTY6QGo6OjZALnAjNDQuYCMxNDNg&&bt=133&ft=gKfIn8QLodzR12NvmhFKzIxRWilEt3_45SY&mime_type=video_mp4&rc=ZzMzN2U0N2ZmNDloNzQ7aEBpM25zd3M5cjRzZTMzODczNUBjMy80YF40NWIxYy0wL19eYSNoLXFsMmQ0YjRhLS1kMTZzcw%3D%3D&vvpl=1&l=202611150423471C6F70D5D4A368A15311&btag=e00088000",
+        "https://v19.tiktokcdn-us.com/2e4fe28113b8801bfbd7b78a8eab68d8/6af98860/video/tos/alisg/tos-alisg-pve-0037c001/ogx1v4XupAN5LIL4wIioZm0BBP3UQDeigCAjPE/?a=1233&bti=NEBzNTY6QGo6OjZALnAjNDQuYCMxNDNg&&bt=133&ft=gKfIn8QLodzR12NvmhFKzIxRWilEt3_45SY&mime_type=video_mp4&rc=ZzMzN2U0N2ZmNDloNzQ7aEBpM25zd3M5cjRzZTMzODczNUBjMy80YF40NWIxYy0wL19eYSNoLXFsMmQ0YjRhLS1kMTZzcw%3D%3D&vvpl=1&l=202611150423471C6F70D5D4A368A15311&btag=e00088000",
+        "https://api16-normal-useast5.tiktokv.us/aweme/v1/play/?faid=1233&file_id=aeb821340ef641ec8c74a1cb742060fd&is_play_url=1&item_id=7696537604115746069&line=0&pt=dGlrdG9rLnNlYXJjaC5hcGkmL2F3ZW1lL3YxL3NlYXJjaC9pdGVtLyYyMDI2MTExNTA0MjM0NzFDNkY3MEQ1RDRBMzY4QTE1MzExJjE3OTQ3MTY2MjgmNWIyNTUxNjIyOWFl&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLmE3MDU4N2Y2Zjg5ZDliZjcxMzMxMGMxODZjZGI3Nzkx&source=SEARCH&video_id=v29044g50000db7pe17og65pottp0kk0"
+       ],
+       "width": 576,
+       "height": 768,
+       "data_size": 763096
+      },
+      "download_addr": {
+       "url_list": [
+        "https://v16m.tiktokcdn-us.com/a501546afe98ddde4a7d8286edd48c3e/6af98860/video/tos/alisg/tos-alisg-ve-37c815-sg/osuPX13xiZ8eAi0TQQ0I8wgm1BBZAoB5CEIPIU/?a=1233&bti=NEBzNTY6QGo6OjZALnAjNDQuYCMxNDNg&&bt=357&eid=20480&ft=gKfIn8QLodzR12NvmhFKzIxRWilEt3_45SY&mime_type=video_mp4&rc=NDNoNDRlNjk5ODw0aWY0ZEBpM25zd3M5cjRzZTMzODczNUBgMzFgNF8tXjQxNC4wMjJiYSNoLXFsMmQ0YjRhLS1kMTZzcw%3D%3D&vvpl=1&l=202611150423471C6F70D5D4A368A15311&btag=e00088000",
+        "https://v19.tiktokcdn-us.com/d15b302322dfe2f98638bb45b5dc4952/6af98860/video/tos/alisg/tos-alisg-ve-37c815-sg/osuPX13xiZ8eAi0TQQ0I8wgm1BBZAoB5CEIPIU/?a=1233&bti=NEBzNTY6QGo6OjZALnAjNDQuYCMxNDNg&&bt=357&eid=20480&ft=gKfIn8QLodzR12NvmhFKzIxRWilEt3_45SY&mime_type=video_mp4&rc=NDNoNDRlNjk5ODw0aWY0ZEBpM25zd3M5cjRzZTMzODczNUBgMzFgNF8tXjQxNC4wMjJiYSNoLXFsMmQ0YjRhLS1kMTZzcw%3D%3D&vvpl=1&l=202611150423471C6F70D5D4A368A15311&btag=e00088000",
+        "https://api16-normal-useast5.tiktokv.us/aweme/v1/play/?video_id=v29044g50000db7pe17og65pottp0kk0&line=0&watermark=1&logo_name=tiktok_m&source=SEARCH&file_id=ea515c3f11794576a603bb71c14e60c1&item_id=7696537604115746069&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLjkzNTY1N2U1ZGMxZDg4NDRiZTBkNmJkZjBhNmYyODJl&shp=d05b14bd&shcp=-"
+       ],
+       "width": 720,
+       "height": 720,
+       "data_size": 2036133
+      }
+     },
+     "share_url": "https://www.tiktok.com/@codeofpower1/video/7696537604115746069?_r=1&u_code=ebmhchc94edfbg&preview_pb=0&sharer_language=en&_d=f1i4iife30f62i&share_item_id=7696537604115746069&source=h5_m",
+     "is_top": 0,
+     "aweme_type": 0
+    }
+   },
+   {
+    "type": null,
+    "aweme_info": {
+     "aweme_id": "7700929548006722838",
+     "desc": "To live is to accept one of the universes hardest truths; humans are not blessed with a meaning nor purpose in life. Camus called this the absurd. The terrifying conflict between humans desire for meaning in an silent, indifferent, irrational universe. However, I think our lack of meaning is what makes us humans so free. There is no foundation, no expectations, no deity assessing our every action. Only ourselves. Meaning is whatever you want it to be. Whether that\u2019s happiness like the eudaemonists believed or virtue like the Stoics. Discovering yourself is the only true way to discover purpose",
+     "create_time": 1793012389,
+     "author": {
+      "uid": "7700918038673081366",
+      "unique_id": "imetwhoimgonnabe",
+      "nickname": "\ud80c\udd9d \ud80c\udd9f \ud80c\udd9e",
+      "follower_count": 781,
+      "sec_uid": "MS4wLjABAAAAdUuQcakSGQDKvcOYCaJqEX_slHceTI1zWa9xSmMrJKkMiDSFXYR1ruh8zMVle0sP"
+     },
+     "statistics": {
+      "aweme_id": "7700929548006722838",
+      "collect_count": 47485,
+      "comment_count": 701,
+      "digg_count": 288993,
+      "download_count": 2445,
+      "forward_count": 0,
+      "lose_comment_count": 0,
+      "lose_count": 0,
+      "play_count": 1483603,
+      "repost_count": 0,
+      "share_count": 15806,
+      "whatsapp_share_count": 103
+     },
+     "video": {
+      "duration": 25053,
+      "width": 724,
+      "height": 576,
+      "has_watermark": true,
+      "play_addr": {
+       "url_list": [
+        "https://v16m.tiktokcdn-us.com/23192d1b65b1eb112929ef29b40f55e6/6af9884d/video/tos/no1a/tos-no1a-ve-0068-no/owJfgyAIgbYAfg0tLVMfOWM1Vu4sNiVoQlqe4f/?a=1233&bti=NTY6QGo0QHM6OjZANDQuYCMucCMxNDNg&&bt=222&ft=gKfIn8QLodzR12NvmhFKzIxRWilEt3_45SY&mime_type=video_mp4&rc=aGVnZ2g1OjdpZTM5OjY1aUBpM3lzcm85cm9sZTMzbzczNUAzNi8tMTQwXl4xNWMuXzFjYSM1Y3NfMmRrcmNhLS1kMTFzcw%3D%3D&vvpl=1&l=202611150423471C6F70D5D4A368A15311&btag=e000b8000",
+        "https://v19.tiktokcdn-us.com/deb8389366a86abb0af39c88740d451a/6af9884d/video/tos/no1a/tos-no1a-ve-0068-no/owJfgyAIgbYAfg0tLVMfOWM1Vu4sNiVoQlqe4f/?a=1233&bti=NTY6QGo0QHM6OjZANDQuYCMucCMxNDNg&&bt=222&ft=gKfIn8QLodzR12NvmhFKzIxRWilEt3_45SY&mime_type=video_mp4&rc=aGVnZ2g1OjdpZTM5OjY1aUBpM3lzcm85cm9sZTMzbzczNUAzNi8tMTQwXl4xNWMuXzFjYSM1Y3NfMmRrcmNhLS1kMTFzcw%3D%3D&vvpl=1&l=202611150423471C6F70D5D4A368A15311&btag=e000b8000",
+        "https://api16-normal-useast5.tiktokv.us/aweme/v1/play/?faid=1233&file_id=ff42b317f6804bafa437724e0d2d9b6e&is_play_url=1&item_id=7700929548006722838&line=0&pt=dGlrdG9rLnNlYXJjaC5hcGkmL2F3ZW1lL3YxL3NlYXJjaC9pdGVtLyYyMDI2MTExNTA0MjM0NzFDNkY3MEQ1RDRBMzY4QTE1MzExJjE3OTQ3MTY2MjgmNWIyNTUxNjIyOWFl&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLjhmNGUwMTkxMTlkMTFhY2U5ZDNhMzI0NjAwZDhiZWJh&source=SEARCH&video_id=v24044gl0000dbfiulnog65lbovpfv80"
+       ],
+       "width": 724,
+       "height": 576,
+       "data_size": 712001
+      },
+      "download_no_watermark_addr": {
+       "url_list": [
+        "https://v16m.tiktokcdn-us.com/23192d1b65b1eb112929ef29b40f55e6/6af9884d/video/tos/no1a/tos-no1a-ve-0068-no/owJfgyAIgbYAfg0tLVMfOWM1Vu4sNiVoQlqe4f/?a=1233&bti=NTY6QGo0QHM6OjZANDQuYCMucCMxNDNg&&bt=222&ft=gKfIn8QLodzR12NvmhFKzIxRWilEt3_45SY&mime_type=video_mp4&rc=aGVnZ2g1OjdpZTM5OjY1aUBpM3lzcm85cm9sZTMzbzczNUAzNi8tMTQwXl4xNWMuXzFjYSM1Y3NfMmRrcmNhLS1kMTFzcw%3D%3D&vvpl=1&l=202611150423471C6F70D5D4A368A15311&btag=e000b8000",
+        "https://v19.tiktokcdn-us.com/deb8389366a86abb0af39c88740d451a/6af9884d/video/tos/no1a/tos-no1a-ve-0068-no/owJfgyAIgbYAfg0tLVMfOWM1Vu4sNiVoQlqe4f/?a=1233&bti=NTY6QGo0QHM6OjZANDQuYCMucCMxNDNg&&bt=222&ft=gKfIn8QLodzR12NvmhFKzIxRWilEt3_45SY&mime_type=video_mp4&rc=aGVnZ2g1OjdpZTM5OjY1aUBpM3lzcm85cm9sZTMzbzczNUAzNi8tMTQwXl4xNWMuXzFjYSM1Y3NfMmRrcmNhLS1kMTFzcw%3D%3D&vvpl=1&l=202611150423471C6F70D5D4A368A15311&btag=e000b8000",
+        "https://api16-normal-useast5.tiktokv.us/aweme/v1/play/?faid=1233&file_id=ff42b317f6804bafa437724e0d2d9b6e&is_play_url=1&item_id=7700929548006722838&line=0&pt=dGlrdG9rLnNlYXJjaC5hcGkmL2F3ZW1lL3YxL3NlYXJjaC9pdGVtLyYyMDI2MTExNTA0MjM0NzFDNkY3MEQ1RDRBMzY4QTE1MzExJjE3OTQ3MTY2MjgmNWIyNTUxNjIyOWFl&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLjhmNGUwMTkxMTlkMTFhY2U5ZDNhMzI0NjAwZDhiZWJh&source=SEARCH&video_id=v24044gl0000dbfiulnog65lbovpfv80"
+       ],
+       "width": 724,
+       "height": 576,
+       "data_size": 712001
+      },
+      "download_addr": {
+       "url_list": [
+        "https://v16m.tiktokcdn-us.com/3ca8a94315d4eaa8646fa012fdce9800/6af9884d/video/tos/no1a/tos-no1a-ve-0068c001-no/oQ6fsy4YggVnNfWi4MNAef9LfMqA6g1CttdbQA/?a=1233&bti=NTY6QGo0QHM6OjZANDQuYCMucCMxNDNg&&bt=232&ft=gKfIn8QLodzR12NvmhFKzIxRWilEt3_45SY&mime_type=video_mp4&rc=ZzczNDdoZmc6ZDxlZThpZUBpM3lzcm85cm9sZTMzbzczNUA0MjMyLl4uNmExXi8yLmFeYSM1Y3NfMmRrcmNhLS1kMTFzcw%3D%3D&vvpl=1&l=202611150423471C6F70D5D4A368A15311&btag=e000b8000",
+        "https://v19.tiktokcdn-us.com/7437b30965737a0d102b703e39099c40/6af9884d/video/tos/no1a/tos-no1a-ve-0068c001-no/oQ6fsy4YggVnNfWi4MNAef9LfMqA6g1CttdbQA/?a=1233&bti=NTY6QGo0QHM6OjZANDQuYCMucCMxNDNg&&bt=232&ft=gKfIn8QLodzR12NvmhFKzIxRWilEt3_45SY&mime_type=video_mp4&rc=ZzczNDdoZmc6ZDxlZThpZUBpM3lzcm85cm9sZTMzbzczNUA0MjMyLl4uNmExXi8yLmFeYSM1Y3NfMmRrcmNhLS1kMTFzcw%3D%3D&vvpl=1&l=202611150423471C6F70D5D4A368A15311&btag=e000b8000",
+        "https://api16-normal-useast5.tiktokv.us/aweme/v1/play/?video_id=v24044gl0000dbfiulnog65lbovpfv80&line=0&watermark=1&logo_name=tiktok_m&source=SEARCH&file_id=abdf155b2ba94ad79d1cae145160547d&item_id=7700929548006722838&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLmYzOWEzMDg4ZDIwZmRmYTQ1MzQ0MzI0YTI1MDA4NWZk&shp=d05b14bd&shcp=-"
+       ],
+       "width": 720,
+       "height": 720,
+       "data_size": 744715
+      }
+     },
+     "share_url": "https://www.tiktok.com/@imetwhoimgonnabe/video/7700929548006722838?_r=1&u_code=ebmhchc94edfbg&preview_pb=0&sharer_language=en&_d=f1i4iife30f62i&share_item_id=7700929548006722838&source=h5_m",
+     "is_top": 0,
+     "aweme_type": 0
+    }
+   },
+   {
+    "type": null,
+    "aweme_info": {
+     "aweme_id": "7624172749946227998",
+     "desc": "Philosophy 101 from novels! #philosophy #literature #BookTok #learning #fiction ",
+     "create_time": 1775141061,
+     "author": {
+      "uid": "7276673339930231851",
+      "unique_id": "stevenjreese",
+      "nickname": "stevenjreese",
+      "follower_count": 80646,
+      "sec_uid": "MS4wLjABAAAAhJUsh8GxjbtsFeFEfnOWsK0C2EWoZBWfYhlM6pLM0X3ZWhYogDiQLWOew62t7UuI"
+     },
+     "statistics": {
+      "aweme_id": "7624172749946227998",
+      "collect_count": 20775,
+      "comment_count": 254,
+      "digg_count": 43173,
+      "download_count": 1422,
+      "forward_count": 0,
+      "lose_comment_count": 0,
+      "lose_count": 0,
+      "play_count": 355773,
+      "repost_count": 0,
+      "share_count": 2013,
+      "whatsapp_share_count": 205
+     },
+     "video": {
+      "duration": 158667,
+      "width": 720,
+      "height": 1280,
+      "has_watermark": true,
+      "play_addr": {
+       "url_list": [
+        "https://v16m.tiktokcdn-us.com/749aaac99253904d7748cc761eb4beb6/6af988d2/video/tos/useast8/tos-useast8-ve-0068c003-tx2/oYecGe4niIJoIWgEygOALK4OQLNfA9ewfglgkY/?a=1233&bti=NTY6QGo0QHM6OjZANDQuYCMucCMxNDNg&&bt=851&ft=gKfIn8QLodzR12NvmhFKzIxRWilEt3_45SY&mime_type=video_mp4&rc=PDxkZjQ5NDczODo3NTYzM0BpMzU3ZXg5cm46OjMzaTczNEA0NDFeYS5iX2ExNjI2MDFfYSNgcmUzMmRzczRhLS1kMTJzcw%3D%3D&vvpl=1&l=202611150423471C6F70D5D4A368A15311&btag=e00090000",
+        "https://v19.tiktokcdn-us.com/c199ccea9a663d75e4136de63da10321/6af988d2/video/tos/useast8/tos-useast8-ve-0068c003-tx2/oYecGe4niIJoIWgEygOALK4OQLNfA9ewfglgkY/?a=1233&bti=NTY6QGo0QHM6OjZANDQuYCMucCMxNDNg&&bt=851&ft=gKfIn8QLodzR12NvmhFKzIxRWilEt3_45SY&mime_type=video_mp4&rc=PDxkZjQ5NDczODo3NTYzM0BpMzU3ZXg5cm46OjMzaTczNEA0NDFeYS5iX2ExNjI2MDFfYSNgcmUzMmRzczRhLS1kMTJzcw%3D%3D&vvpl=1&l=202611150423471C6F70D5D4A368A15311&btag=e00090000",
+        "https://api16-normal-useast5.tiktokv.us/aweme/v1/play/?faid=1233&file_id=b0403392549745d0b4e116d1ac4a7979&is_play_url=1&item_id=7624172749946227998&line=0&pt=dGlrdG9rLnNlYXJjaC5hcGkmL2F3ZW1lL3YxL3NlYXJjaC9pdGVtLyYyMDI2MTExNTA0MjM0NzFDNkY3MEQ1RDRBMzY4QTE1MzExJjE3OTQ3MTY2MjgmNWIyNTUxNjIyOWFl&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLmNjM2M0ZWYxMjU1YjI0MDkzZTFjYjljMDQ4YjE0NTE5&source=SEARCH&video_id=v15044gf0000d777vkvog65u6bh4u2c0"
+       ],
+       "width": 720,
+       "height": 1280,
+       "data_size": 17284227
+      },
+      "download_no_watermark_addr": {
+       "url_list": [
+        "https://v16m.tiktokcdn-us.com/749aaac99253904d7748cc761eb4beb6/6af988d2/video/tos/useast8/tos-useast8-ve-0068c003-tx2/oYecGe4niIJoIWgEygOALK4OQLNfA9ewfglgkY/?a=1233&bti=NTY6QGo0QHM6OjZANDQuYCMucCMxNDNg&&bt=851&ft=gKfIn8QLodzR12NvmhFKzIxRWilEt3_45SY&mime_type=video_mp4&rc=PDxkZjQ5NDczODo3NTYzM0BpMzU3ZXg5cm46OjMzaTczNEA0NDFeYS5iX2ExNjI2MDFfYSNgcmUzMmRzczRhLS1kMTJzcw%3D%3D&vvpl=1&l=202611150423471C6F70D5D4A368A15311&btag=e00090000",
+        "https://v19.tiktokcdn-us.com/c199ccea9a663d75e4136de63da10321/6af988d2/video/tos/useast8/tos-useast8-ve-0068c003-tx2/oYecGe4niIJoIWgEygOALK4OQLNfA9ewfglgkY/?a=1233&bti=NTY6QGo0QHM6OjZANDQuYCMucCMxNDNg&&bt=851&ft=gKfIn8QLodzR12NvmhFKzIxRWilEt3_45SY&mime_type=video_mp4&rc=PDxkZjQ5NDczODo3NTYzM0BpMzU3ZXg5cm46OjMzaTczNEA0NDFeYS5iX2ExNjI2MDFfYSNgcmUzMmRzczRhLS1kMTJzcw%3D%3D&vvpl=1&l=202611150423471C6F70D5D4A368A15311&btag=e00090000",
+        "https://api16-normal-useast5.tiktokv.us/aweme/v1/play/?faid=1233&file_id=b0403392549745d0b4e116d1ac4a7979&is_play_url=1&item_id=7624172749946227998&line=0&pt=dGlrdG9rLnNlYXJjaC5hcGkmL2F3ZW1lL3YxL3NlYXJjaC9pdGVtLyYyMDI2MTExNTA0MjM0NzFDNkY3MEQ1RDRBMzY4QTE1MzExJjE3OTQ3MTY2MjgmNWIyNTUxNjIyOWFl&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLmNjM2M0ZWYxMjU1YjI0MDkzZTFjYjljMDQ4YjE0NTE5&source=SEARCH&video_id=v15044gf0000d777vkvog65u6bh4u2c0"
+       ],
+       "width": 720,
+       "height": 1280,
+       "data_size": 17284227
+      },
+      "download_addr": {
+       "url_list": [
+        "https://v16m.tiktokcdn-us.com/ce288a40e5784c7bfa758c0fdd84933c/6af988d2/video/tos/useast8/tos-useast8-pve-0068-tx2/owNGBgnkA4ARJAoOgfoLIe8cgK4effPdvAGAiy/?a=1233&bti=NTY6QGo0QHM6OjZANDQuYCMucCMxNDNg&&bt=800&ft=gKfIn8QLodzR12NvmhFKzIxRWilEt3_45SY&mime_type=video_mp4&rc=NWY2aTs5ZmQ4ZDVkNmc1Z0BpMzU3ZXg5cm46OjMzaTczNEA1XzEzMjE1NS0xLWMuYl9fYSNgcmUzMmRzczRhLS1kMTJzcw%3D%3D&vvpl=1&l=202611150423471C6F70D5D4A368A15311&btag=e00090000",
+        "https://v19.tiktokcdn-us.com/c24097010088bcb422029b2fcd113c32/6af988d2/video/tos/useast8/tos-useast8-pve-0068-tx2/owNGBgnkA4ARJAoOgfoLIe8cgK4effPdvAGAiy/?a=1233&bti=NTY6QGo0QHM6OjZANDQuYCMucCMxNDNg&&bt=800&ft=gKfIn8QLodzR12NvmhFKzIxRWilEt3_45SY&mime_type=video_mp4&rc=NWY2aTs5ZmQ4ZDVkNmc1Z0BpMzU3ZXg5cm46OjMzaTczNEA1XzEzMjE1NS0xLWMuYl9fYSNgcmUzMmRzczRhLS1kMTJzcw%3D%3D&vvpl=1&l=202611150423471C6F70D5D4A368A15311&btag=e00090000",
+        "https://api16-normal-useast5.tiktokv.us/aweme/v1/play/?video_id=v15044gf0000d777vkvog65u6bh4u2c0&line=0&watermark=1&logo_name=tiktok_m&source=SEARCH&file_id=bdb2ed13fa024a058a8c46586f43bc82&item_id=7624172749946227998&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLjY2NTYzZTlkNTM0MTY4ZmJkN2RhOGUxMTE2MmJiYzlk&shp=d05b14bd&shcp=-"
+       ],
+       "width": 720,
+       "height": 720,
+       "data_size": 16253668
+      }
+     },
+     "share_url": "https://www.tiktok.com/@stevenjreese/video/7624172749946227998?_r=1&u_code=ebmhchc94edfbg&preview_pb=0&sharer_language=en&_d=f1i4iife30f62i&share_item_id=7624172749946227998&source=h5_m",
+     "is_top": 0,
+     "aweme_type": 0
+    }
+   }
+  ],
+  "cursor": 30,
+  "has_more": 1
+ }
+}

@@ -1,0 +1,412 @@
+{
+ "request": {
+  "n": 4,
+  "path": "/v2/instagram/reels/search",
+  "params": {
+   "query": "philosophy",
+   "page": 1
+  },
+  "status": 200,
+  "credits": 1
+ },
+ "response": {
+  "success": true,
+  "credits_remaining": 96,
+  "credits_charged": 1,
+  "reels": [
+   {
+    "id": "4001344830909364536",
+    "__typename": "XDTGraphVideo",
+    "shortcode": "DeHoex2Mrk4",
+    "url": "https://www.instagram.com/reel/DeHoex2Mrk4/",
+    "caption": "Philosophy encompasses the study of fundamental questions about existence, knowledge, values, and reasoning. Here\u2019s an overview of its main areas:\n\nCore Branches: \n\nMetaphysics \u2014 Questions about the nature of reality, existence, causality, and what fundamentally exists (matter, mind, God, abstract objects).\n\nEpistemology \u2014 The study of knowledge: what it is, how we acquire it, what makes something true, and the limits of human understanding.\n\nEthics \u2014 Inquiry into what is right and wrong, good and bad, virtue, justice, and how we ought to live.\n\nLogic \u2014 The study of reasoning, argumentation, a",
+    "thumbnail_src": "https://scontent-sjc6-1.cdninstagram.com/v/t51.71878-15/837659587_1132068629389217_4935077746063652821_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ig_cache_key=NDAwMTM0NDgzMDkwOTM2NDUzNjE4NDQyMDMzNjY5NDcyNDA%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjY0MC5zZHIudmlkZW9fdXNlcl9zZWxlY3RlZF90aHVtYm5haWwuQzMifQ%3D%3D&_nc_ohc=DqsAas22RzsQ7kNvwE-2EcH&_nc_oc=Ado_ygFMaRtczmtNzq20xDw_PEMsZirQzKd3aYjvonhYZkWRx_NAExnNyM66Mj8TflI&_nc_zt=23&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_gid=4mg-jrWgfPhZikaooL_-jQ&_nc_ss=78980&_nc_ct=RQosPBUIFQ4lBAAAAA&oh=00",
+    "display_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.71878-15/837659587_1132068629389217_4935077746063652821_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ig_cache_key=NDAwMTM0NDgzMDkwOTM2NDUzNjE4NDQyMDMzNjY5NDcyNDA%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjY0MC5zZHIudmlkZW9fdXNlcl9zZWxlY3RlZF90aHVtYm5haWwuQzMifQ%3D%3D&_nc_ohc=DqsAas22RzsQ7kNvwE-2EcH&_nc_oc=Ado_ygFMaRtczmtNzq20xDw_PEMsZirQzKd3aYjvonhYZkWRx_NAExnNyM66Mj8TflI&_nc_zt=23&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_gid=4mg-jrWgfPhZikaooL_-jQ&_nc_ss=78980&_nc_ct=RQosPBUIFQ4lBAAAAA&oh=00",
+    "video_url": "https://scontent-sjc3-1.cdninstagram.com/o1/v/t2/f2/m86/AQMgfy5r0-Qc-7_pwfW0tcxwa_d4ZotUFJJNKezckhZTTaPfKljAGVNgMsnyp01ovWaHFfi1zUVSzWz_IUChzvjG4Coytflva-QL8FA.mp4?_nc_cat=102&_nc_sid=5e9851&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_ohc=XP-KInqNAK0Q7kNvwEEXGgo&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTg0NDIwMTgyMzYxNDA2MSwiYXNzZXRfYWdlX2RheXMiOjQwLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6NzgsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=5a1ec254c31f8b33&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRf",
+    "has_audio": true,
+    "video_view_count": 618,
+    "product_type": "clips",
+    "video_duration": 78.389,
+    "clips_music_attribution_info": {
+     "artist_name": "vandanamahajanofficial",
+     "song_name": "Original audio",
+     "uses_original_audio": true,
+     "should_mute_audio": false,
+     "should_mute_audio_reason": "",
+     "audio_id": "29395584933377954"
+    },
+    "is_video": true,
+    "owner": {
+     "id": "32023984751",
+     "username": "vandanamahajanofficial",
+     "is_verified": true,
+     "profile_pic_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-19/357642825_180294308351132_7495267738109386228_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ig_cache_key=GEkyURWcTDQK_qMAAPSddNJLigRobkULAAAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy44MjguQzMifQ%3D%3D&_nc_ohc=VuDBa5abriMQ7kNvwFS1zpT&_nc_oc=AdpZ6C1726e8aIeDEAJZJ8aIzrR9rMlDGz4YyVJb_nCH_n5_fozSjjokcZw3qWgIrJQ&_nc_zt=24&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_ss=78980&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQT5mCYQAXpU1pqrUAhHiLlrsO_JzoxCI4b6crW5lH56Ag&oe=6AFEEBB9",
+     "full_name": "Study Abroad Counsellor | Vandana Mahajan"
+    },
+    "taken_at": "2026-10-05T16:27:06.000Z",
+    "is_ad": false,
+    "like_count": 21,
+    "is_paid_partnership": false,
+    "location": null,
+    "comment_count": 33,
+    "comments": [
+     {
+      "id": "18100677179532566",
+      "text": "Philosophy",
+      "owner": {
+       "id": "4013392514",
+       "username": "im__arya14786",
+       "is_verified": false,
+       "profile_pic_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/622976719_18438643219128515_3705913544416291418_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ig_cache_key=GM-eISXDYDcr2YFBAFrqPd_7DG4zbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=zJN1ZPWiFr8Q7kNvwGJiRXo&_nc_oc=AdrvUxu12GySDpdv6k8y4t-Jn-hlLhzAIUumoBtI9sMTDFd-cWcsyMBFUzQWMlxZ5Jo&_nc_zt=24&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_gid=4mg-jrWgfPhZikaooL_-jQ&_nc_ss=78980&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQR6a83ORgulKQcJIGd5Mj9zbSRvqkPQKNLu1kSPy1YwvQ",
+       "full_name": ""
+      },
+      "like_count": 0,
+      "created_at": "2026-11-09T02:22:52.000Z"
+     },
+     {
+      "id": "18121631026982767",
+      "text": "Philosophy",
+      "owner": {
+       "id": "79689077101",
+       "username": "kub.tam",
+       "is_verified": false,
+       "profile_pic_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.89012-19/573323465_1219825463302212_7278921664109726296_n.png?stp=dst-jpg_tt6&_nc_cat=1&ig_cache_key=YW5vbnltb3VzX3Byb2ZpbGVfcGlj.3-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=GWCwwzMErI4Q7kNvwE-O9Zq&_nc_oc=Adoaof72S9yjKrVO4VBxETj6VBde53Rx00n_QvRHDHSpH41i7wBtSdqazOFm44UhKHs&_nc_zt=24&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_gid=4mg-jrWgfPhZikaooL_-jQ&_nc_ss=78980&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQQbCzUKmDBjr6GVLLfqjIoNziM1Adi9R08RrE5YRlFgLQ&oe=6AFEFE99",
+       "full_name": ""
+      },
+      "like_count": 0,
+      "created_at": "2026-11-04T22:12:30.000Z"
+     },
+     {
+      "id": "18501355510098239",
+      "text": "Philosophy",
+      "owner": {
+       "id": "64121491305",
+       "username": "arinola0003",
+       "is_verified": false,
+       "profile_pic_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/488131617_1340422517289905_5702736121791991560_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ig_cache_key=GCFMGB2x8-1vG8MEAAhPM9NJMCRPbkULAAAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=nragev61LWoQ7kNvwEzYSdq&_nc_oc=AdpK1Y_f3qMp1RcyOZKREHBWsicG5BLPbmZLZR9U5EAJq-KjxiokKCSb1ky0vfneiHA&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_ss=78980&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQRBA4nBCpmzowhMHimHXcco0mz5GCkkZKuWaPPcGOPBdA&oe=6AFEF63D",
+       "full_name": ""
+      },
+      "like_count": 0,
+      "created_at": "2026-10-28T13:14:55.000Z"
+     }
+    ]
+   },
+   {
+    "id": "3765206547052811809",
+    "__typename": "XDTGraphVideo",
+    "shortcode": "DRAs2fXDtYh",
+    "url": "https://www.instagram.com/reel/DRAs2fXDtYh/",
+    "caption": "Is Philosophy Just Clever Branding For Depressive Thoughts?\n\nIs Being Smart Worth the Depression? - Alex O\u2019Connor & Joe Folley (4K)",
+    "thumbnail_src": "https://scontent-lga3-2.cdninstagram.com/v/t51.82787-15/582166219_18542099182035977_9169219586628333412_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ig_cache_key=Mzc2NTIwNjU0NzA1MjgxMTgwOTE4NTQyMDk5MTc5MDM1OTc3.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjExNzAuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=q02hi5a9nEAQ7kNvwG0ggQC&_nc_oc=AdpfN13Mo9u5Y-2FS4nYeaMrigRGdD-EprojqEaDHh1VwXvbn5vhYRGLjrozfxvAHcw&_nc_zt=23&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_gid=0XHIc4MUvVBMIQP7ZdrcjQ&_nc_ss=78580&_nc_ct=RQosPBUIFQQlBAAAAA&oh=00_AQTF",
+    "display_url": "https://scontent-lga3-2.cdninstagram.com/v/t51.82787-15/582166219_18542099182035977_9169219586628333412_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ig_cache_key=Mzc2NTIwNjU0NzA1MjgxMTgwOTE4NTQyMDk5MTc5MDM1OTc3.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjExNzAuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=q02hi5a9nEAQ7kNvwG0ggQC&_nc_oc=AdpfN13Mo9u5Y-2FS4nYeaMrigRGdD-EprojqEaDHh1VwXvbn5vhYRGLjrozfxvAHcw&_nc_zt=23&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_gid=0XHIc4MUvVBMIQP7ZdrcjQ&_nc_ss=78580&_nc_ct=RQosPBUIFQQlBAAAAA&oh=00_AQTF",
+    "video_url": "https://scontent-lga3-3.cdninstagram.com/o1/v/t2/f2/m86/AQNDGwfobIr_bquaP50Ak0UuZCsoQsQ3z_gcJlbGDckgAaquTS7nAkcyOGcr_NWuR7yhrzmGdvEKttbyGflB0Ze9zIF7JYfz4rgsEQY.mp4?_nc_cat=100&_nc_sid=5e9851&_nc_ht=scontent-lga3-3.cdninstagram.com&_nc_ohc=zFFtLLJde4gQ7kNvwGNEAcP&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTU0NjkyMDMwMzE1ODM5NSwiYXNzZXRfYWdlX2RheXMiOjM2NiwidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjcwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=c5652f4c3ce0c2d&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3J",
+    "has_audio": true,
+    "video_view_count": 430506,
+    "product_type": "clips",
+    "video_duration": 70.17,
+    "clips_music_attribution_info": {
+     "artist_name": "chriswillx",
+     "song_name": "Original audio",
+     "uses_original_audio": true,
+     "should_mute_audio": false,
+     "should_mute_audio_reason": "",
+     "audio_id": "1795359911152172"
+    },
+    "is_video": true,
+    "owner": {
+     "id": "330019976",
+     "username": "chriswillx",
+     "is_verified": true,
+     "profile_pic_url": "https://scontent-lga3-3.cdninstagram.com/v/t51.2885-19/344159312_1972818066398238_355286771736455669_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GFB0gxQe3A2ARAIHAPUpv75vO_4EbkULAAAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=E35sBylWIJUQ7kNvwHg3TZP&_nc_oc=AdonKQEaxdF026P6FUwD8kJ4V_d5Ybaou69lng-FvEpOqee3_KJtkgHerifD_4BXRB8&_nc_zt=24&_nc_ht=scontent-lga3-3.cdninstagram.com&_nc_ss=78580&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQTpeTO7KfrJ4d88BMN6qA_E0I9pxPgKCV4P_emis4LpAw&oe=6AFEF7DF",
+     "full_name": "Chris Williamson"
+    },
+    "taken_at": "2025-11-13T21:00:00.000Z",
+    "is_ad": false,
+    "like_count": 57395,
+    "is_paid_partnership": false,
+    "location": {
+     "__typename": "XDTLocationDict",
+     "pk": 2175252602795962,
+     "lat": 54.9832359,
+     "lng": -1.6044228,
+     "name": "Modern Wisdom",
+     "profile_pic_url": null
+    },
+    "comment_count": 331,
+    "comments": [
+     {
+      "id": "18120358552682626",
+      "text": "Obviously",
+      "owner": {
+       "id": "72073927074",
+       "username": "illegalinindia",
+       "is_verified": false,
+       "profile_pic_url": "https://scontent-lga3-3.cdninstagram.com/v/t51.89012-19/573323465_1219825463302212_7278921664109726296_n.png?stp=dst-jpg_tt6&_nc_cat=1&ig_cache_key=YW5vbnltb3VzX3Byb2ZpbGVfcGlj.3-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=GWCwwzMErI4Q7kNvwHujL9t&_nc_oc=AdrN4raagNk3O7cmTv5np_5nTcM4dw5W4pPs0mpGHy7xBVOlsxCVNMJtDX9CovwBLdk&_nc_zt=24&_nc_ht=scontent-lga3-3.cdninstagram.com&_nc_gid=0XHIc4MUvVBMIQP7ZdrcjQ&_nc_ss=78580&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQRkyZuZOu06CQsRl5dKG0EKZ9q7GoKUeG36Msqx-p6a2g&oe=6AFEFE99",
+       "full_name": ""
+      },
+      "like_count": 0,
+      "created_at": "2026-06-26T02:25:06.000Z"
+     },
+     {
+      "id": "18099709912905119",
+      "text": "\ud83d\udc4f",
+      "owner": {
+       "id": "72073927074",
+       "username": "illegalinindia",
+       "is_verified": false,
+       "profile_pic_url": "https://scontent-lga3-3.cdninstagram.com/v/t51.89012-19/573323465_1219825463302212_7278921664109726296_n.png?stp=dst-jpg_tt6&_nc_cat=1&ig_cache_key=YW5vbnltb3VzX3Byb2ZpbGVfcGlj.3-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=GWCwwzMErI4Q7kNvwHujL9t&_nc_oc=AdrN4raagNk3O7cmTv5np_5nTcM4dw5W4pPs0mpGHy7xBVOlsxCVNMJtDX9CovwBLdk&_nc_zt=24&_nc_ht=scontent-lga3-3.cdninstagram.com&_nc_gid=0XHIc4MUvVBMIQP7ZdrcjQ&_nc_ss=78580&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQRkyZuZOu06CQsRl5dKG0EKZ9q7GoKUeG36Msqx-p6a2g&oe=6AFEFE99",
+       "full_name": ""
+      },
+      "like_count": 0,
+      "created_at": "2026-06-26T02:24:55.000Z"
+     },
+     {
+      "id": "17879976054664239",
+      "text": "don\u2019t agree. Reducing philosophy to a mere branding exercise trivializes it. Philosophy demands its own rigorous, often uncomfortable confrontation. It\u2019s not a shortcut via a personality, it\u2019s a raw dive into thought, regardless of who\u2019s popular.",
+      "owner": {
+       "id": "25513756377",
+       "username": "mindp_lex",
+       "is_verified": false,
+       "profile_pic_url": "https://scontent-lga3-1.cdninstagram.com/v/t51.82787-19/718076192_18102715720852378_7913568206756836513_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ig_cache_key=GCD5zCqa4wL0UlBAAKH0kC1bpNJtbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=QnfM3ebMlmsQ7kNvwFn8zOn&_nc_oc=AdpZs6I6xG_mJtCswT4GXvvck0rYWBzNmDDKOSr_vcgYe4UBQ0eCE7ET1NLe2KYA24I&_nc_zt=24&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_gid=0XHIc4MUvVBMIQP7ZdrcjQ&_nc_ss=78580&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQTbjxvcliDwrlaKI5HC3vWGoMzIebyG12AkTmfEsrcrzw",
+       "full_name": ""
+      },
+      "like_count": 0,
+      "created_at": "2026-06-06T23:48:52.000Z"
+     }
+    ]
+   },
+   {
+    "id": "3804850538387621973",
+    "__typename": "XDTGraphVideo",
+    "shortcode": "DTNi2fcDEhV",
+    "url": "https://www.instagram.com/reel/DTNi2fcDEhV/",
+    "caption": "Top Philosophy Books of All Time",
+    "thumbnail_src": "https://scontent-bos5-1.cdninstagram.com/v/t51.82787-15/784693932_18124928978498514_7390119936509337081_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ig_cache_key=MzgwNDg1MDUzODM4NzYyMTk3MzE4MTI0OTI4OTcyNDk4NTE0.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjk0MS5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=lrPtXeSWnWIQ7kNvwEB81-l&_nc_oc=AdqwqG54NM2hO7oJh0zM9jFm7qsL-pacmmYaIOJRf_PHYmiD4faPZbb9d_uZpOYfm6w&_nc_zt=23&_nc_ht=scontent-bos5-1.cdninstagram.com&_nc_gid=kF5FAnLBsjtSqLU12yynjA&_nc_ss=78580&_nc_ct=RQosPBUIFQQlBAAAAA&oh=00_AQTWH1oRd7ZW",
+    "display_url": "https://scontent-bos5-1.cdninstagram.com/v/t51.82787-15/784693932_18124928978498514_7390119936509337081_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ig_cache_key=MzgwNDg1MDUzODM4NzYyMTk3MzE4MTI0OTI4OTcyNDk4NTE0.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjk0MS5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=lrPtXeSWnWIQ7kNvwEB81-l&_nc_oc=AdqwqG54NM2hO7oJh0zM9jFm7qsL-pacmmYaIOJRf_PHYmiD4faPZbb9d_uZpOYfm6w&_nc_zt=23&_nc_ht=scontent-bos5-1.cdninstagram.com&_nc_gid=kF5FAnLBsjtSqLU12yynjA&_nc_ss=78580&_nc_ct=RQosPBUIFQQlBAAAAA&oh=00_AQTWH1oRd7ZW",
+    "video_url": "https://scontent-bos5-1.cdninstagram.com/o1/v/t2/f2/m86/AQPsx-hBgW-RScQzhWE9NynYU6g6eYxgVbdmESFV--2CC9u-AYqhdb3KSlxsRLGnwxC9qqkk3_rmIpe3VkHL1dg-0bWS3OCsHzymzcg.mp4?_nc_cat=102&_nc_sid=5e9851&_nc_ht=scontent-bos5-1.cdninstagram.com&_nc_ohc=enOE_T68gnsQ7kNvwGV2DTO&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTQwMzk5Njk0MTIxMjc4MSwiYXNzZXRfYWdlX2RheXMiOjMxMSwidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjY1LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=be25b041f7e23232&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3",
+    "has_audio": true,
+    "video_view_count": 438559,
+    "product_type": "clips",
+    "video_duration": 65.967,
+    "clips_music_attribution_info": {
+     "artist_name": "bookbuddyofficial",
+     "song_name": "Original audio",
+     "uses_original_audio": true,
+     "should_mute_audio": false,
+     "should_mute_audio_reason": "",
+     "audio_id": "26164132016528143"
+    },
+    "is_video": true,
+    "owner": {
+     "id": "45011202513",
+     "username": "bookbuddyofficial",
+     "is_verified": true,
+     "profile_pic_url": "https://scontent-bos5-1.cdninstagram.com/v/t51.82787-19/902024909_18135752225498514_2610982127604956491_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=103&_nc_map=urlgen_bucketless&ig_cache_key=GM3OwzWSpSLdXm5AAEt9yVZpEjwkbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=U0x4ocxNXRAQ7kNvwGDOOUg&_nc_oc=Adrk3Zw0qB-yfd8pZvTjg3A1jYBf-E9CNKw0R2OVyvlID-bUgBLDebpD6RabWQ26NW4&_nc_zt=24&_nc_ht=scontent-bos5-1.cdninstagram.com&_nc_gid=kF5FAnLBsjtSqLU12yynjA&_nc_ss=78580&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQRif6YvcU-ZgtbOpUbgmXq4MTUi-8N7CTb3Outd8PRxIw",
+     "full_name": "Shah Rukh Nadeem"
+    },
+    "taken_at": "2026-01-07T13:45:00.000Z",
+    "is_ad": false,
+    "like_count": 44779,
+    "is_paid_partnership": false,
+    "location": null,
+    "comment_count": 687,
+    "comments": [
+     {
+      "id": "17876572836567253",
+      "text": "What do you have to say on Chanakya Niti book? Share you thinking",
+      "owner": {
+       "id": "77834323132",
+       "username": "surajrs966",
+       "is_verified": false,
+       "profile_pic_url": "https://scontent-bos5-1.cdninstagram.com/v/t51.82787-19/630939238_17861497776595133_2260967762161948282_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ig_cache_key=GGZemyW9YCEG8HQ-AHrWRVgzkmAfbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=keool7KJg2oQ7kNvwHuWn-Z&_nc_oc=AdqgSk3WVUdx9wJrp5BC6r9zqu-aBiNDx1_GYvCZN-aS9blGOKjgobt8saVQMM0mwgU&_nc_zt=24&_nc_ht=scontent-bos5-1.cdninstagram.com&_nc_gid=kF5FAnLBsjtSqLU12yynjA&_nc_ss=78580&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQQFnHqv8ruel7tzG-U9SzVL-EkFkCA_N7iM2PbUwqPAPQ",
+       "full_name": ""
+      },
+      "like_count": 0,
+      "created_at": "2026-10-04T05:42:51.000Z"
+     },
+     {
+      "id": "18020547140862043",
+      "text": "None by osho?",
+      "owner": {
+       "id": "51162388197",
+       "username": "prakash.vasudha",
+       "is_verified": false,
+       "profile_pic_url": "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/408811691_875369780894735_9022454294556222595_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ig_cache_key=GKv4XRgPXNboJBwDAIOkOL1gMjZ9bkULAAAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=97dxQLSvYrYQ7kNvwHdYbFW&_nc_oc=AdpRecJC-Io506yYuEs5JfdyPAUxYlrjEXSJufzEFxDCjIzey1Be3pcQKimUIo2XDSw&_nc_zt=24&_nc_ht=scontent-bos5-1.cdninstagram.com&_nc_ss=78580&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQQRwxfc329i8RVs2m3UQ85Oc9ovuKvDJ-upKEhW5qD9SA&oe=6AFF0826",
+       "full_name": ""
+      },
+      "like_count": 0,
+      "created_at": "2026-08-30T07:51:38.000Z"
+     },
+     {
+      "id": "18029316359673230",
+      "text": "The liberals , would you add up Iqbal's books into this list?",
+      "owner": {
+       "id": "38783741240",
+       "username": "innussvb",
+       "is_verified": false,
+       "profile_pic_url": "https://scontent-bos5-1.cdninstagram.com/v/t51.82787-19/856180823_18109514936293241_2718636081155255400_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ig_cache_key=GFdICDN5F9UEglZAAGis0aIcibolbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=aRFnHtbXbAMQ7kNvwG9FD2C&_nc_oc=AdrpqGt-uakA9UjlWcxQHhiHLxkDhi0NSXK3pSbWLeV65CCzlI9uKsNZ7wyuRhLMhSA&_nc_zt=24&_nc_ht=scontent-bos5-1.cdninstagram.com&_nc_gid=kF5FAnLBsjtSqLU12yynjA&_nc_ss=78580&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQTrVuE3RzSuMWGzmjvUPk6eaV-baBzWbpBmVBpHkPo2MA",
+       "full_name": ""
+      },
+      "like_count": 0,
+      "created_at": "2026-08-30T05:33:24.000Z"
+     }
+    ]
+   },
+   {
+    "id": "4008036613887940074",
+    "__typename": "XDTGraphVideo",
+    "shortcode": "DefaBCZjNXq",
+    "url": "https://www.instagram.com/reel/DefaBCZjNXq/",
+    "caption": "David Brooks knows that reading philosophy can seem daunting, but it doesn\u2019t have to be. He shares three books to read if you\u2019re diving into the subject.\u2060\n\u2060\nListen to \u201cThe Permanent Questions,\u201d where Brooks talks with some of the world\u2019s deepest thinkers, at the link in our bio.",
+    "thumbnail_src": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/850269538_18633402136034043_5202859890330975586_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ig_cache_key=NDAwODAzNjYxMzg4Nzk0MDA3NDE4NjMzNDAyMTMzMDM0MDQz.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEwODAuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=lQTWfNfPYWgQ7kNvwG63TCH&_nc_oc=Adp8MAH5KccM0-ngqNkx1KfOXVBR5bbqN7RPC17JlS6kFV172bXE965304X-1J_CsnQ&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_gid=GiRXr7wNe5xZjLkcyaLTLQ&_nc_ss=78980&_nc_ct=RQosPBUIFQQlBAAAAA&oh=00_AQSx",
+    "display_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/850269538_18633402136034043_5202859890330975586_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ig_cache_key=NDAwODAzNjYxMzg4Nzk0MDA3NDE4NjMzNDAyMTMzMDM0MDQz.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEwODAuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=lQTWfNfPYWgQ7kNvwG63TCH&_nc_oc=Adp8MAH5KccM0-ngqNkx1KfOXVBR5bbqN7RPC17JlS6kFV172bXE965304X-1J_CsnQ&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_gid=GiRXr7wNe5xZjLkcyaLTLQ&_nc_ss=78980&_nc_ct=RQosPBUIFQQlBAAAAA&oh=00_AQSx",
+    "video_url": "https://scontent-iad3-2.cdninstagram.com/o1/v/t2/f2/m86/AQMmuHcQPLnbZpMF4He7R6pmwUBUiA6knvDSyAR2fPs19lOBXk19Ef2P84XofMCunZeFqluphGlKZsfRM8mOhfp3AP4tMQkeIXUAFpw.mp4?_nc_cat=108&_nc_sid=5e9851&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_ohc=FJx9Y9C62ZEQ7kNvwEmqbOu&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTg2MzM0MDE0NDkwMzQwNDMsImFzc2V0X2FnZV9kYXlzIjozMSwidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjk1LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=ff0e647091aa666b&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3",
+    "has_audio": true,
+    "video_view_count": 66185,
+    "product_type": "clips",
+    "video_duration": 95.866,
+    "clips_music_attribution_info": {
+     "artist_name": "theatlantic",
+     "song_name": "Original audio",
+     "uses_original_audio": true,
+     "should_mute_audio": false,
+     "should_mute_audio_reason": "",
+     "audio_id": "29759575970299002"
+    },
+    "is_video": true,
+    "owner": {
+     "id": "388706042",
+     "username": "theatlantic",
+     "is_verified": true,
+     "profile_pic_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/71583947_267120104230197_835102128090382336_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GMtIRAQ1zey_8fIAAAAAAAD24JYLbkULAAAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=tRqWE2wgV38Q7kNvwEzg9z6&_nc_oc=Adq49edyqH4lN_pU955ivRG-Nayj0uHzeopUl1162k1RvZ1Ayiid3viT38vuV3NHikI&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_ss=78980&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQQ2KlehMHUVgnhTuiRILGoWoPIpYY1m89k10uXRID_Pmw&oe=6AFF21AA",
+     "full_name": "The Atlantic"
+    },
+    "taken_at": "2026-10-14T22:03:20.000Z",
+    "is_ad": false,
+    "like_count": 5930,
+    "is_paid_partnership": false,
+    "location": null,
+    "comment_count": 92,
+    "comments": [
+     {
+      "id": "18119702569826261",
+      "text": "The word of you racists can\u2019t be trusted until you retract your article on Steyn Kundizeza, issue a formal apology and fire Vauhini Vara.",
+      "owner": {
+       "id": "1437262168",
+       "username": "crayyalldayy",
+       "is_verified": false,
+       "profile_pic_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/10584508_1388437324739170_1459553093_a.jpg?_nc_cat=102&_nc_map=urlgen_bucketless&ig_cache_key=GLyBoQBisojBxu4EAEUD-1YAAAAAYUULAAAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=6jSYIsRwofMQ7kNvwHjGTmD&_nc_oc=Adq2hOWnvjfXI1NdIBNkKEY8wKQBqIqQFG_2w8Qp3rzduvlkKCnk-fxJqsZ41DyGTlo&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_ss=78980&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQSBpLpNZZ-Byozm9324nFohJ9TSVgixPWrIqVSRjamfIg&oe=6AFF1313",
+       "full_name": ""
+      },
+      "like_count": 0,
+      "created_at": "2026-11-13T14:13:36.000Z"
+     },
+     {
+      "id": "18196643755395934",
+      "text": "David suggested two of my important books for everyone to read: Man\u2019s Search for Meaning & The Prince.  But unlike David I love The Prince because Machiavelli\u2019s insights into power mongers and political and religious leaders who are also politicians continue to be accurate 500 years later. My favorite quote: \u201cFor every person who deceives there is someone willing to be deceived. \u201c",
+      "owner": {
+       "id": "8302751529",
+       "username": "judedimegliotrang",
+       "is_verified": false,
+       "profile_pic_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/741592163_18322804102279530_5843843756166858346_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=103&_nc_map=urlgen_bucketless&ig_cache_key=GGPMMyxqMc5FfhhBAGrGNSnvgBlRbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy44MDAuQzMifQ%3D%3D&_nc_ohc=xljScC4JWGUQ7kNvwEwq20n&_nc_oc=Ado3plRl8rXR1rMIMMvB-KSlS5u1wWg9q66yZOwTpsGJdJNGmsw2wNjCGZ9dOGGNHXY&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_gid=GiRXr7wNe5xZjLkcyaLTLQ&_nc_ss=78980&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQRLT50EDYPPofAoWIxY19f0BaNB8D1BFFevZZI11rO7",
+       "full_name": ""
+      },
+      "like_count": 0,
+      "created_at": "2026-11-12T06:54:08.000Z"
+     },
+     {
+      "id": "18118167097819500",
+      "text": "Thank you great list!",
+      "owner": {
+       "id": "192445115",
+       "username": "gurleyball",
+       "is_verified": false,
+       "profile_pic_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/153554782_130471878979907_5187218004738094999_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ig_cache_key=GF4PJwlD8f-ZqXYAAJe37NBKs-xHbkULAAAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42NDAuQzMifQ%3D%3D&_nc_ohc=yOMdtWqRPfwQ7kNvwEaTx0t&_nc_oc=Adqxu0Tbv8ho3hhQosjAGj2KC2V9b8GMVHcCF_vPG_E6Atzg16030Tk5U4VbIkLRfmI&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_ss=78980&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQSx1NYs6FSv6VDoRrv-nvIWbzuvaDrxKHpYUhXWQAaH5g&oe=6AFF182D",
+       "full_name": ""
+      },
+      "like_count": 0,
+      "created_at": "2026-11-02T01:18:35.000Z"
+     }
+    ]
+   },
+   {
+    "id": "3881594284294681038",
+    "__typename": "XDTGraphVideo",
+    "shortcode": "DXeMW-dkjHO",
+    "url": "https://www.instagram.com/reel/DXeMW-dkjHO/",
+    "caption": "The greatest philosophy did not come from more thinking. It emerged from the space of no mind.\n\nComment 'Now' to watch the full video.",
+    "thumbnail_src": "https://scontent-bos5-1.cdninstagram.com/v/t51.71878-15/673053249_4247007545564744_1971463045038411724_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ig_cache_key=Mzg4MTU5NDI4NDI5NDY4MTAzODE3OTU5OTUzNjQyMTE1Mjg5.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjY0MC5zZHIudmlkZW9fbmZyYW1lX2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=ibXCmK0v9psQ7kNvwEcvtkv&_nc_oc=AdrHFnLRYkW7jGPLj4UdyidHd6rNBi2hGxWK-c3THHPhHX7mUe1MVfUc_0a4UdYhhJM&_nc_zt=23&_nc_ht=scontent-bos5-1.cdninstagram.com&_nc_gid=_HJPnABDdcD0xLSRlsJPEQ&_nc_ss=78580&_nc_ct=RQosPBUIFQglBAAAAA&oh=00_AQSvtWdzdlf",
+    "display_url": "https://scontent-bos5-1.cdninstagram.com/v/t51.71878-15/673053249_4247007545564744_1971463045038411724_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ig_cache_key=Mzg4MTU5NDI4NDI5NDY4MTAzODE3OTU5OTUzNjQyMTE1Mjg5.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjY0MC5zZHIudmlkZW9fbmZyYW1lX2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=ibXCmK0v9psQ7kNvwEcvtkv&_nc_oc=AdrHFnLRYkW7jGPLj4UdyidHd6rNBi2hGxWK-c3THHPhHX7mUe1MVfUc_0a4UdYhhJM&_nc_zt=23&_nc_ht=scontent-bos5-1.cdninstagram.com&_nc_gid=_HJPnABDdcD0xLSRlsJPEQ&_nc_ss=78580&_nc_ct=RQosPBUIFQglBAAAAA&oh=00_AQSvtWdzdlf",
+    "video_url": "https://scontent-bos5-1.cdninstagram.com/o1/v/t2/f2/m86/AQO2CnoewbnP0nZdkb7YKaF5UdxO_9Dw21_bvhEiRMRVOZLRYBEH27qvXQ4qMBfsFkxTVXX0WbRl_-gxvnU1jh-azkyVFQSIVYUJsek.mp4?_nc_cat=101&_nc_sid=5e9851&_nc_ht=scontent-bos5-1.cdninstagram.com&_nc_ohc=vOsNzNa2WL4Q7kNvwFQREgy&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTc5NTk5NTM0OTUxMTUyODksImFzc2V0X2FnZV9kYXlzIjoyMDUsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjo0NCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=57d3470a474dcc82&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3Jf",
+    "has_audio": true,
+    "video_view_count": 31786,
+    "product_type": "clips",
+    "video_duration": 44.117,
+    "clips_music_attribution_info": {
+     "artist_name": "eckharttolle",
+     "song_name": "Original audio",
+     "uses_original_audio": true,
+     "should_mute_audio": false,
+     "should_mute_audio_reason": "",
+     "audio_id": "27085479781057862"
+    },
+    "is_video": true,
+    "owner": {
+     "id": "1538815025",
+     "username": "eckharttolle",
+     "is_verified": true,
+     "profile_pic_url": "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/118991894_348033649712150_3546143479824682385_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=GBasFwcWnA-miDwBAJGNhOW0bjYxbkULAAAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy40MDAuQzMifQ%3D%3D&_nc_ohc=Rl51sbF5NxwQ7kNvwG-32yH&_nc_oc=Adp0ftI8sm3aJBuWorG_Lu_x_Eayzr02XlGy1t1oHHRErBx5uDpdfDCGgzHIeE8Hy1o&_nc_zt=24&_nc_ht=scontent-bos5-1.cdninstagram.com&_nc_ss=78580&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQRxxf-rtEHYLh3B7UAXRr6g41XW3fuBxN4pU3J1VggUCQ&oe=6AFF0605",
+     "full_name": "Eckhart Tolle"
+    },
+    "taken_at": "2026-04-23T11:02:24.000Z",
+    "is_ad": false,
+    "like_count": 3652,
+    "is_paid_partnership": false,
+    "location": null,
+    "comment_count": 59,
+    "comments": [
+     {
+      "id": "17887766511487801",
+      "text": "In the Awakening Manifesto, we believe that the soul is the only player that can checkmate the system. \u265f\ufe0f\ud83d\udd13\ud83e\udde0",
+      "owner": {
+       "id": "48848538759",
+       "username": "awakeningmanifesto",
+       "is_verified": false,
+       "profile_pic_url": "https://scontent-bos5-1.cdninstagram.com/v/t51.82787-19/818062512_18105367559626760_6838367613565298101_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ig_cache_key=GLCkwjAIYOthvFJAALVlGAIdw_ZebmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy43NjguQzMifQ%3D%3D&_nc_ohc=tSd9WnfVaMQQ7kNvwHfYQ-w&_nc_oc=Adpo1Ad2KflDn3IxSE9QtFaDEPHNIbrlDyD9grbtmpZTn6XwgoeSKhxGaI8iVaQyNvY&_nc_zt=24&_nc_ht=scontent-bos5-1.cdninstagram.com&_nc_gid=_HJPnABDdcD0xLSRlsJPEQ&_nc_ss=78580&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQRVQi5Ke93wUNxxpTuUnxmviRpFjLFkcGglVuQzrPbt",
+       "full_name": ""
+      },
+      "like_count": 0,
+      "created_at": "2026-05-06T19:07:33.000Z"
+     },
+     {
+      "id": "18125463361615350",
+      "text": "The fear of God is the beginning of all understanding - the great I AM. Ecclesiastes 3:11",
+      "owner": {
+       "id": "15918310",
+       "username": "scottjallen",
+       "is_verified": false,
+       "profile_pic_url": "https://scontent-bos5-1.cdninstagram.com/v/t51.82787-19/584886678_18546816949046311_2364121792895626714_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ig_cache_key=GJap3CInTPZTO_RBANqtTbc_DM8gbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=twPGOzTkOjwQ7kNvwFUq8cY&_nc_oc=AdoNzFoI2vUMHOnoo-QwEiILRDzyizwQ91iAR4BAZZFRWb1gRV6QQpu1lH1dKfRJWPM&_nc_zt=24&_nc_ht=scontent-bos5-1.cdninstagram.com&_nc_gid=_HJPnABDdcD0xLSRlsJPEQ&_nc_ss=78580&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQQYiJzVWKLA89rPqVw8adxqhpXzbVgvsmrkNyOSbsxKQA",
+       "full_name": ""
+      },
+      "like_count": 0,
+      "created_at": "2026-05-05T11:15:07.000Z"
+     },
+     {
+      "id": "18129679825501992",
+      "text": "\ud83e\udd0d\ud83d\udcab",
+      "owner": {
+       "id": "53192025715",
+       "username": "ewamauch",
+       "is_verified": false,
+       "profile_pic_url": "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/321853871_1485888591906142_8156193938434186686_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ig_cache_key=GK8ZLxNeRbJlaEcFAL5dkHMsnzBxbkULAAAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjIuQzMifQ%3D%3D&_nc_ohc=hdIEwpsV-wYQ7kNvwFSZOwS&_nc_oc=AdpVTFE1LjgwVpDq0Zi_WB7QxbqsAF2ZzaWZcZbLBLTEs1YNtUoAL0Qukb-U-9RWpjA&_nc_zt=24&_nc_ht=scontent-bos5-1.cdninstagram.com&_nc_ss=78580&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQSEGCJXfyZ45ezXXjWL24uPIh5bkVLg-8FnIBaICgscgg&oe=6AFF19FF",
+       "full_name": ""
+      },
+      "like_count": 0,
+      "created_at": "2026-05-04T14:15:06.000Z"
+     }
+    ]
+   }
+  ],
+  "next_page": 2
+ }
+}

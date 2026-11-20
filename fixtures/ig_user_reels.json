@@ -1,0 +1,328 @@
+{
+ "request": {
+  "n": 3,
+  "path": "/v1/instagram/user/reels",
+  "params": {
+   "handle": "michael__mezz"
+  },
+  "status": 200,
+  "credits": 1
+ },
+ "response": {
+  "success": true,
+  "credits_remaining": 97,
+  "credits_charged": 1,
+  "items": [
+   {
+    "media": {
+     "id": "4029571404721686880_50170700844",
+     "pk": 4029571404721687000,
+     "code": "Dfr6dfPgglg",
+     "play_count": 140942,
+     "ig_play_count": 140942,
+     "like_count": 9902,
+     "comment_count": 285,
+     "video_duration": 74,
+     "taken_at": 1794582585,
+     "product_type": "clips",
+     "media_type": 2,
+     "video_versions": [
+      {
+       "bandwidth": 1379142,
+       "height": 1280,
+       "id": "1632135891926707v",
+       "progressive_identifier": "AA==",
+       "type": 101,
+       "url": "https://scontent-iad6-1.cdninstagram.com/o1/v/t2/f2/m86/AQMaDVleZEpq1yRRjee0lryp2K9uw5q_q_c-9InFsuHHjddSqKd48cjEfFblma1EmJAmT-rusU8cJU4SnXj5Eze8WFLX_elMNtQqG4E.mp4?_nc_cat=102&_nc_sid=5e9851&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_ohc=r_buUSBvegcQ7kNvwE2OntY&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTYzMjEzMzY2ODU5MzU5NiwiYXNzZXRfYWdlX2RheXMiOjEsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjo3NCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=8dcb6dccb2e944c2&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJv",
+       "url_expiration_timestamp_us": null,
+       "width": 720,
+       "fallback": null
+      },
+      {
+       "bandwidth": 1379142,
+       "height": 1280,
+       "id": "1632135891926707v",
+       "progressive_identifier": "AA==",
+       "type": 102,
+       "url": "https://scontent-iad6-1.cdninstagram.com/o1/v/t2/f2/m86/AQMaDVleZEpq1yRRjee0lryp2K9uw5q_q_c-9InFsuHHjddSqKd48cjEfFblma1EmJAmT-rusU8cJU4SnXj5Eze8WFLX_elMNtQqG4E.mp4?_nc_cat=102&_nc_sid=5e9851&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_ohc=r_buUSBvegcQ7kNvwE2OntY&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTYzMjEzMzY2ODU5MzU5NiwiYXNzZXRfYWdlX2RheXMiOjEsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjo3NCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=8dcb6dccb2e944c2&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJv",
+       "url_expiration_timestamp_us": null,
+       "width": 720,
+       "fallback": null
+      },
+      {
+       "bandwidth": 1379142,
+       "height": 1280,
+       "id": "1632135891926707v",
+       "progressive_identifier": "AA==",
+       "type": 103,
+       "url": "https://scontent-iad6-1.cdninstagram.com/o1/v/t2/f2/m86/AQMaDVleZEpq1yRRjee0lryp2K9uw5q_q_c-9InFsuHHjddSqKd48cjEfFblma1EmJAmT-rusU8cJU4SnXj5Eze8WFLX_elMNtQqG4E.mp4?_nc_cat=102&_nc_sid=5e9851&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_ohc=r_buUSBvegcQ7kNvwE2OntY&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTYzMjEzMzY2ODU5MzU5NiwiYXNzZXRfYWdlX2RheXMiOjEsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjo3NCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=8dcb6dccb2e944c2&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJv",
+       "url_expiration_timestamp_us": null,
+       "width": 720,
+       "fallback": null
+      }
+     ],
+     "caption": {
+      "text": "\u2753 What do people get wrong about capitalism?\n\nIn this video, we chat with @michael__mezz about what capitalism is, what it is not, and how we could organise society more democratically.\n\nMusic: Bensound.com\nArtist: Diffie Bosman\nEditor: @agisilaos_k \n\n#capitalism #democracy #revolution",
+      "created_at": 1794582875
+     },
+     "user": {
+      "pk": 50170700844,
+      "id": "50170700844",
+      "username": "climatevanguard",
+      "full_name": "Climate Vanguard",
+      "is_verified": false
+     }
+    }
+   },
+   {
+    "media": {
+     "id": "4027463463254504120_50540598231",
+     "pk": 4027463463254504000,
+     "code": "DfkbK5xJjK4",
+     "play_count": 27593,
+     "ig_play_count": 27593,
+     "like_count": 1260,
+     "comment_count": 5,
+     "video_duration": 81.61599731445312,
+     "taken_at": 1794331817,
+     "product_type": "clips",
+     "media_type": 2,
+     "video_versions": [
+      {
+       "bandwidth": 1067741,
+       "height": 1280,
+       "id": "1662254718897873v",
+       "progressive_identifier": "AA==",
+       "type": 101,
+       "url": "https://scontent-iad6-1.cdninstagram.com/o1/v/t2/f2/m86/AQPZpzE-eJWLSFeelbdAkgmVjFNuyCVh1aA68PfTrsQwxgV6nPt4N3lL8lj6ao9H5i9yxtFitHVyj7B1iTlDAm4i9JVD8BGPqlq7-Jg.mp4?_nc_cat=104&_nc_sid=5e9851&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_ohc=WkQ6LbI3UlYQ7kNvwGI4bMi&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTY2MjI1Mjk3MjIzMTM4MSwiYXNzZXRfYWdlX2RheXMiOjQsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjo4MSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=8368aec343df76df&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJv",
+       "url_expiration_timestamp_us": null,
+       "width": 720,
+       "fallback": null
+      },
+      {
+       "bandwidth": 1067741,
+       "height": 1280,
+       "id": "1662254718897873v",
+       "progressive_identifier": "AA==",
+       "type": 102,
+       "url": "https://scontent-iad6-1.cdninstagram.com/o1/v/t2/f2/m86/AQPZpzE-eJWLSFeelbdAkgmVjFNuyCVh1aA68PfTrsQwxgV6nPt4N3lL8lj6ao9H5i9yxtFitHVyj7B1iTlDAm4i9JVD8BGPqlq7-Jg.mp4?_nc_cat=104&_nc_sid=5e9851&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_ohc=WkQ6LbI3UlYQ7kNvwGI4bMi&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTY2MjI1Mjk3MjIzMTM4MSwiYXNzZXRfYWdlX2RheXMiOjQsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjo4MSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=8368aec343df76df&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJv",
+       "url_expiration_timestamp_us": null,
+       "width": 720,
+       "fallback": null
+      },
+      {
+       "bandwidth": 1067741,
+       "height": 1280,
+       "id": "1662254718897873v",
+       "progressive_identifier": "AA==",
+       "type": 103,
+       "url": "https://scontent-iad6-1.cdninstagram.com/o1/v/t2/f2/m86/AQPZpzE-eJWLSFeelbdAkgmVjFNuyCVh1aA68PfTrsQwxgV6nPt4N3lL8lj6ao9H5i9yxtFitHVyj7B1iTlDAm4i9JVD8BGPqlq7-Jg.mp4?_nc_cat=104&_nc_sid=5e9851&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_ohc=WkQ6LbI3UlYQ7kNvwGI4bMi&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTY2MjI1Mjk3MjIzMTM4MSwiYXNzZXRfYWdlX2RheXMiOjQsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjo4MSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=8368aec343df76df&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJv",
+       "url_expiration_timestamp_us": null,
+       "width": 720,
+       "fallback": null
+      }
+     ],
+     "caption": {
+      "text": "@isabella_m_weber explains why inflation and rising inequality go hand-in-hand: when there are price shocks for life\u2019s essentials that boost corporate profits, this is a mechanism for wealth redistribution from the working class to the ultra-rich.\n\nin the latest @betterfuturepod episode, we discuss economic policies that would reorient our priorities away from endless profits for the rich, and toward dignified livelihoods for all working people. the conversation is full of detail \u2014 comment \u201cep\u201d and i\u2019ll send it to you.\n\nthe discussion is based around Dr. Weber\u2019s new book, Anti-Fascist Economic",
+      "created_at": 1794332354
+     },
+     "user": {
+      "pk": 50540598231,
+      "id": "50540598231",
+      "username": "michael__mezz",
+      "full_name": "michael mezzatesta",
+      "is_verified": true
+     }
+    }
+   },
+   {
+    "media": {
+     "id": "4026020062780831395_50540598231",
+     "pk": 4026020062780831000,
+     "code": "DffS-qUpbaj",
+     "play_count": 220509,
+     "ig_play_count": 220509,
+     "like_count": 14374,
+     "comment_count": 195,
+     "video_duration": 92.78500366210938,
+     "taken_at": 1794159377,
+     "product_type": "clips",
+     "media_type": 2,
+     "video_versions": [
+      {
+       "bandwidth": 931914,
+       "height": 1280,
+       "id": "2155175038705311v",
+       "progressive_identifier": "AA==",
+       "type": 101,
+       "url": "https://scontent-iad6-1.cdninstagram.com/o1/v/t2/f2/m86/AQN9fYUoFuf77k6dmTwJQs0zxiLlWvjUdYRUyzuytL4UwDfvPpVuzVufTWX0op81Vd9WyX95EJs002pzybgZj_DJ7o4RAif_jlC0gVk.mp4?_nc_cat=100&_nc_sid=5e9851&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_ohc=CnEd29J-EIcQ7kNvwEZ3B17&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MjE1NTE2ODkzNTM3MjU4OCwiYXNzZXRfYWdlX2RheXMiOjYsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjo5MiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=aad413ab24c5057&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZ",
+       "url_expiration_timestamp_us": null,
+       "width": 720,
+       "fallback": null
+      },
+      {
+       "bandwidth": 931914,
+       "height": 1280,
+       "id": "2155175038705311v",
+       "progressive_identifier": "AA==",
+       "type": 102,
+       "url": "https://scontent-iad6-1.cdninstagram.com/o1/v/t2/f2/m86/AQN9fYUoFuf77k6dmTwJQs0zxiLlWvjUdYRUyzuytL4UwDfvPpVuzVufTWX0op81Vd9WyX95EJs002pzybgZj_DJ7o4RAif_jlC0gVk.mp4?_nc_cat=100&_nc_sid=5e9851&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_ohc=CnEd29J-EIcQ7kNvwEZ3B17&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MjE1NTE2ODkzNTM3MjU4OCwiYXNzZXRfYWdlX2RheXMiOjYsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjo5MiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=aad413ab24c5057&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZ",
+       "url_expiration_timestamp_us": null,
+       "width": 720,
+       "fallback": null
+      },
+      {
+       "bandwidth": 931914,
+       "height": 1280,
+       "id": "2155175038705311v",
+       "progressive_identifier": "AA==",
+       "type": 103,
+       "url": "https://scontent-iad6-1.cdninstagram.com/o1/v/t2/f2/m86/AQN9fYUoFuf77k6dmTwJQs0zxiLlWvjUdYRUyzuytL4UwDfvPpVuzVufTWX0op81Vd9WyX95EJs002pzybgZj_DJ7o4RAif_jlC0gVk.mp4?_nc_cat=100&_nc_sid=5e9851&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_ohc=CnEd29J-EIcQ7kNvwEZ3B17&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MjE1NTE2ODkzNTM3MjU4OCwiYXNzZXRfYWdlX2RheXMiOjYsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjo5MiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=aad413ab24c5057&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZ",
+       "url_expiration_timestamp_us": null,
+       "width": 720,
+       "fallback": null
+      }
+     ],
+     "caption": {
+      "text": "@isabella_m_weber explains why fascism and neoliberalism are natural siblings: they are both willing to treat parts of society as collateral damage. in the latest @betterfuturepod episode, we discuss what it would take to build an anti-fascist economy instead. comment \u201cep\u201d and we\u2019ll send you the full convo, which is full of specific economic policy ideas.\n\n#neoliberalism #economics \n#malthusianism #thatcher",
+      "created_at": 1794159299
+     },
+     "user": {
+      "pk": 50540598231,
+      "id": "50540598231",
+      "username": "michael__mezz",
+      "full_name": "michael mezzatesta",
+      "is_verified": true
+     }
+    }
+   },
+   {
+    "media": {
+     "id": "4024592751413957629_50540598231",
+     "pk": 4024592751413957600,
+     "code": "DfaOcjBpBP9",
+     "play_count": 57105,
+     "ig_play_count": 57105,
+     "like_count": 3579,
+     "comment_count": 79,
+     "video_duration": 72.90599822998047,
+     "taken_at": 1793989347,
+     "product_type": "clips",
+     "media_type": 2,
+     "video_versions": [
+      {
+       "bandwidth": 2269571,
+       "height": 1280,
+       "id": "1445596451053735v",
+       "progressive_identifier": "AA==",
+       "type": 101,
+       "url": "https://scontent-iad3-1.cdninstagram.com/o1/v/t2/f2/m86/AQPRP1Ikm-xNtUysz1IK-PU-RmRhRI7Y46JgkkfK5y8vTGu2Po2BeSKYdAsZupr2gTSB0roGCdBbX-RjniZwz_VaWX5gBL6FPaFvP1A.mp4?_nc_cat=106&_nc_sid=5e9851&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_ohc=DmD2AiUBmTsQ7kNvwGscaYj&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTQ0NTU5MTU5MTA1NDIyMSwiYXNzZXRfYWdlX2RheXMiOjgsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjo3MiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=f0a3b8827834f882&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJv",
+       "url_expiration_timestamp_us": null,
+       "width": 720,
+       "fallback": null
+      },
+      {
+       "bandwidth": 2269571,
+       "height": 1280,
+       "id": "1445596451053735v",
+       "progressive_identifier": "AA==",
+       "type": 102,
+       "url": "https://scontent-iad3-1.cdninstagram.com/o1/v/t2/f2/m86/AQPRP1Ikm-xNtUysz1IK-PU-RmRhRI7Y46JgkkfK5y8vTGu2Po2BeSKYdAsZupr2gTSB0roGCdBbX-RjniZwz_VaWX5gBL6FPaFvP1A.mp4?_nc_cat=106&_nc_sid=5e9851&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_ohc=DmD2AiUBmTsQ7kNvwGscaYj&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTQ0NTU5MTU5MTA1NDIyMSwiYXNzZXRfYWdlX2RheXMiOjgsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjo3MiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=f0a3b8827834f882&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJv",
+       "url_expiration_timestamp_us": null,
+       "width": 720,
+       "fallback": null
+      },
+      {
+       "bandwidth": 2269571,
+       "height": 1280,
+       "id": "1445596451053735v",
+       "progressive_identifier": "AA==",
+       "type": 103,
+       "url": "https://scontent-iad3-1.cdninstagram.com/o1/v/t2/f2/m86/AQPRP1Ikm-xNtUysz1IK-PU-RmRhRI7Y46JgkkfK5y8vTGu2Po2BeSKYdAsZupr2gTSB0roGCdBbX-RjniZwz_VaWX5gBL6FPaFvP1A.mp4?_nc_cat=106&_nc_sid=5e9851&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_ohc=DmD2AiUBmTsQ7kNvwGscaYj&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTQ0NTU5MTU5MTA1NDIyMSwiYXNzZXRfYWdlX2RheXMiOjgsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjo3MiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=f0a3b8827834f882&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJv",
+       "url_expiration_timestamp_us": null,
+       "width": 720,
+       "fallback": null
+      }
+     ],
+     "caption": {
+      "text": "check in on your tech CEO friends\u2026 they had a rough week. turns out the entire country hates them :/ \n\n#climatepowerpartner #bigtech \n#datacenters #energy #election",
+      "created_at": 1793989346
+     },
+     "user": {
+      "pk": 50540598231,
+      "id": "50540598231",
+      "username": "michael__mezz",
+      "full_name": "michael mezzatesta",
+      "is_verified": true
+     }
+    }
+   },
+   {
+    "media": {
+     "id": "4023826450210942813_50540598231",
+     "pk": 4023826450210943000,
+     "code": "DfXgNZapO9d",
+     "play_count": 131861,
+     "ig_play_count": 131861,
+     "like_count": 8395,
+     "comment_count": 145,
+     "video_duration": 94.03900146484375,
+     "taken_at": 1793897770,
+     "product_type": "clips",
+     "media_type": 2,
+     "video_versions": [
+      {
+       "bandwidth": 841163,
+       "height": 1280,
+       "id": "1544675110733081v",
+       "progressive_identifier": "AA==",
+       "type": 101,
+       "url": "https://scontent-iad6-1.cdninstagram.com/o1/v/t2/f2/m86/AQNvhkBiIrkRWjuEFBwzlmgXjNPZNWFRJlVvy5R631IDCvrAf4LQY89VFkrq-v-LFgR4rlKfIkvllRjM1Q-FN0XokKKi601xWDbBKEY.mp4?_nc_cat=100&_nc_sid=5e9851&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_ohc=O6xUdZKjEv0Q7kNvwG7TqSz&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTU0NDY3MTg3MDczMzQwNSwiYXNzZXRfYWdlX2RheXMiOjksInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjo5NCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=51b275a6a48c8736&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJv",
+       "url_expiration_timestamp_us": null,
+       "width": 720,
+       "fallback": null
+      },
+      {
+       "bandwidth": 841163,
+       "height": 1280,
+       "id": "1544675110733081v",
+       "progressive_identifier": "AA==",
+       "type": 102,
+       "url": "https://scontent-iad6-1.cdninstagram.com/o1/v/t2/f2/m86/AQNvhkBiIrkRWjuEFBwzlmgXjNPZNWFRJlVvy5R631IDCvrAf4LQY89VFkrq-v-LFgR4rlKfIkvllRjM1Q-FN0XokKKi601xWDbBKEY.mp4?_nc_cat=100&_nc_sid=5e9851&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_ohc=O6xUdZKjEv0Q7kNvwG7TqSz&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTU0NDY3MTg3MDczMzQwNSwiYXNzZXRfYWdlX2RheXMiOjksInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjo5NCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=51b275a6a48c8736&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJv",
+       "url_expiration_timestamp_us": null,
+       "width": 720,
+       "fallback": null
+      },
+      {
+       "bandwidth": 841163,
+       "height": 1280,
+       "id": "1544675110733081v",
+       "progressive_identifier": "AA==",
+       "type": 103,
+       "url": "https://scontent-iad6-1.cdninstagram.com/o1/v/t2/f2/m86/AQNvhkBiIrkRWjuEFBwzlmgXjNPZNWFRJlVvy5R631IDCvrAf4LQY89VFkrq-v-LFgR4rlKfIkvllRjM1Q-FN0XokKKi601xWDbBKEY.mp4?_nc_cat=100&_nc_sid=5e9851&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_ohc=O6xUdZKjEv0Q7kNvwG7TqSz&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTU0NDY3MTg3MDczMzQwNSwiYXNzZXRfYWdlX2RheXMiOjksInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjo5NCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=51b275a6a48c8736&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJv",
+       "url_expiration_timestamp_us": null,
+       "width": 720,
+       "fallback": null
+      }
+     ],
+     "caption": {
+      "text": "fascists offer an alternative to neoliberalism, which means progressives must offer an even more compelling alternative \u2014 one that delivers dignified lives to all. in the new @betterfuturepod episode, economist @isabella_m_weber lays out a detailed vision for how to build an anti-fascist economy.\n\nit\u2019s an enlightening discussion! comment \u201cep\u201d and we\u2019ll DM it to you \ud83d\udc8c\n\n#economy #economics \n#neoliberalism #antifaschismus",
+      "created_at": 1793897749
+     },
+     "user": {
+      "pk": 50540598231,
+      "id": "50540598231",
+      "username": "michael__mezz",
+      "full_name": "michael mezzatesta",
+      "is_verified": true
+     }
+    }
+   }
+  ],
+  "paging_info": {
+   "max_id": "sc:eyJ2ZXJzaW9uIjoxLCJlbmRwb2ludCI6InJlZWxzIiwiaGFuZGxlIjoibWljaGFlbF9fbWV6eiIsInVzZXJJZCI6IjUwNTQwNTk4MjMxIiwicmVlbHNUYWJVc2VySWQiOiIxNzg0MTQ1MDU4Njk0NzU3NCIsImN1cnNvciI6IlFWRkRSMGN6UmxscGRGWmFXalJXVUdGSVp6QlZaRzB6U0RkTVMyTnNVMGxmWVdKZlkwZEVXVzFPWWxoMGFYUklhVzlGVGxSd2FqTXpOVTlhYVhSNlJsRjZWR0pCTVRNM1YyRndRMGt5TkZCNk4zZFdRa1JDZGc9PSJ9",
+   "more_available": true
+  },
+  "status": "ok"
+ }
+}

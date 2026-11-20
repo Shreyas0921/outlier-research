@@ -1,0 +1,70 @@
+# Outlier research config. Copy to config.yaml (or let `/outliers add` create it).
+#
+# thresholds: what counts as an outlier. Any key left out uses the default shown here.
+#   min_multiple    video views ÷ the creator's median views must be at least this (5 = 5×)
+#   min_views       ignore videos with fewer views than this
+#   max_age_days    ignore videos posted longer ago than this
+#   stage2_top_n    keyword/niche runs: how many top candidates get the full creator-median check
+#                   (each check costs ~3 credits on TikTok, ~4 on Instagram)
+#   baseline_pages  pages of a creator's recent videos used for their median
+#                   (TikTok ~7 videos/page, Instagram ~12 reels/page; 1 credit per page)
+#   min_duration_s  only consider videos at least this long, written like 1:00 (or seconds). Leave out = no limit.
+#   max_duration_s  only consider videos at most this long, like 3:00. Leave out = no limit.
+#                   Length filters apply to the videos being judged, never to a creator's baseline.
+#   min_likes_tiktok  only consider TikToks with at least this many likes, like 50000 or 50k. Leave out = no limit.
+#   min_likes_ig      the same for Instagram reels (IG likes run lower, so set it separately).
+#                     Likes come free with search results, so these filter before any credits are spent.
+#                     A video with hidden or unknown likes is skipped while a floor is set.
+#   exclude_ai        true = skip AI-generated videos: ones the platform labels AI (TikTok's label is in search
+#                     results; Instagram's only shows up in the creator check) and ones whose caption uses a
+#                     hashtag from ai_hashtags. Turn off for one run with --allow-ai.
+#   ai_hashtags       hashtags (without #) that mark a video as AI or brain-rot. Exact matches only.
+#   english_only      true = skip videos whose speech isn't English. TikTok's spoken-language tag filters for free
+#                     before any credits; Instagram has no tag, so a 30-second audio check runs after download
+#                     (~25 s, before the slow transcription). Turn off for one run with --any-language.
+#   talking_head_only true = keep only videos where a person talks to camera. After download, 12 frames across the
+#                     whole video get a face check (a face in at least 60% of them; B-roll and overlays are fine),
+#                     and after transcription the speech must reach min_words_per_min. Failing videos are deleted
+#                     and remembered, never downloaded again. Turn off (with skip_hashtags) using --any-format.
+#   min_words_per_min speaking-rate floor for talking_head_only (talking heads run 120-180; music/text videos ~10).
+#   skip_hashtags     caption hashtags (without #) that mark a format to skip before any credits: skits, POV
+#                     characters, clip/fan pages, podcast/news/debate clips of someone else. '*edit' matches any
+#                     hashtag ending in "edit" (#joebartolozziedit); listing pov also skips "POV: ..." captions.
+#
+# niches: one entry per niche, named however you like (Title Case reads best: Fitness, Personal Finance).
+# If OUTLIERS_CREATORS_DIR in .env points at a vault folder with one subfolder per niche, those names are
+# offered too when you add creators.
+#   tiktok_creators / ig_creators   handles without the @
+#   tiktok_keywords                 TikTok keyword searches
+#   ig_hashtags                     Instagram hashtag searches (without #)
+#   ig_keywords                     Instagram keyword searches (Google-indexed, best effort)
+
+thresholds:
+  min_multiple: 5
+  min_views: 500000
+  max_age_days: 730
+  stage2_top_n: 20
+  baseline_pages: 3
+  min_duration_s: "1:00"
+  max_duration_s: "3:00"
+  min_likes_tiktok: 50000
+  min_likes_ig: 10000
+  exclude_ai: true
+  ai_hashtags: [aivideo, aivideos, aistory, aiart, aigenerated, aianimation, aicontent, sora, sora2, veo3,
+    midjourney, klingai, brainrot, italianbrainrot]
+  english_only: true
+  talking_head_only: true
+  min_words_per_min: 60
+  skip_hashtags: [satire, parody, comedy, comedyvideo, comedyskit, skit, skits, sketch, sketchcomedy, pov,
+    acting, roleplay, characters, '*edit', edits, fanpage, clips, clip, podcast, podcastclips, podcastclip,
+    interview, news, breakingnews, debate, debatetok, campusdebate, speech, motivationalspeech, stitch,
+    stitched, duet, duetwithme, stitchwithme]
+
+# Start empty and let `/outliers add @handle` fill it in, or write niches by hand like the commented example.
+niches: {}
+#  Fitness:
+#    tiktok_creators: [somecreator]      # handles without the @
+#    ig_creators: [someothercreator]
+#    tiktok_keywords: [gym tips, hypertrophy]
+#    ig_hashtags: [fitnesstips]
+#    ig_keywords: []

@@ -1,0 +1,86 @@
+{
+ "request": {
+  "n": 7,
+  "path": "/v1/tiktok/profile",
+  "params": {
+   "handle": "jonstertruck"
+  },
+  "status": 200,
+  "credits": 1
+ },
+ "response": {
+  "success": true,
+  "credits_remaining": 93,
+  "credits_charged": 1,
+  "user": {
+   "id": "6956367646568940550",
+   "shortId": "",
+   "uniqueId": "jonstertruck",
+   "nickname": "Jonathan Buchwalter",
+   "avatarLarger": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/452ba89bdbc84b668c6f8d4607680bb0~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=9640&refresh_token=73cb5889&x-expires=1794888000&x-signature=%2BvjqoQbaTr8CIkk0m6BFMVzWnZ4%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast8",
+   "avatarMedium": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/452ba89bdbc84b668c6f8d4607680bb0~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=4f17829f&x-expires=1794888000&x-signature=H8Maz%2Fg0a4myPyN6ZN24a%2FU9gdI%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast8",
+   "avatarThumb": "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/452ba89bdbc84b668c6f8d4607680bb0~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=94895971&x-expires=1794888000&x-signature=4HMo3FHBTeNgJqH8UKbr5MXUQgA%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast8",
+   "signature": "Join me on Patreon/YT!",
+   "createTime": 1619655608,
+   "verified": false,
+   "secUid": "MS4wLjABAAAAlgRn3q9OIUGi4IEycwf4gNJJZtgntHEARLrF84AlyNo3Ec0I0EnWcVKIfv22f89N",
+   "ftc": false,
+   "relation": 0,
+   "openFavorite": false,
+   "bioLink": {
+    "link": "https://www.amazon.com/Night-Sky-Darker-Jonathan-Buchwalter/dp/B0CCCSGNNZ",
+    "risk": 0
+   },
+   "commentSetting": 0,
+   "commerceUserInfo": {
+    "commerceUser": false
+   },
+   "duetSetting": 0,
+   "stitchSetting": 0,
+   "privateAccount": false,
+   "secret": false,
+   "isADVirtual": false,
+   "roomId": "",
+   "uniqueIdModifyTime": 0,
+   "ttSeller": false,
+   "downloadSetting": 0,
+   "profileTab": {
+    "showMusicTab": false,
+    "showQuestionTab": false,
+    "showPlayListTab": true
+   },
+   "followingVisibility": 2,
+   "recommendReason": "",
+   "nowInvitationCardUrl": "",
+   "nickNameModifyTime": 1766938966,
+   "isEmbedBanned": false,
+   "canExpPlaylist": true,
+   "profileEmbedPermission": 1,
+   "language": "en",
+   "eventList": [],
+   "suggestAccountBind": false,
+   "isOrganization": 0,
+   "UserStoryStatus": 0,
+   "shortDramaCreator": {}
+  },
+  "stats": {
+   "followerCount": 685500,
+   "followingCount": 1166,
+   "heart": 10200000,
+   "heartCount": 10200000,
+   "videoCount": 766,
+   "diggCount": 0,
+   "friendCount": 257
+  },
+  "statsV2": {
+   "followerCount": "685488",
+   "followingCount": "1166",
+   "heart": "10180570",
+   "heartCount": "10180570",
+   "videoCount": "766",
+   "diggCount": "0",
+   "friendCount": "257"
+  },
+  "itemList": []
+ }
+}
