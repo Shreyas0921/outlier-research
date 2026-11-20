@@ -66,14 +66,14 @@ fetch_model ggml-large-v3-turbo.bin https://huggingface.co/ggerganov/whisper.cpp
 fetch_model ggml-silero-v5.1.2.bin https://huggingface.co/ggml-org/whisper-vad/resolve/main/ggml-silero-v5.1.2.bin
 
 # 5. The /outliers skill for Claude Code
-bash "$PROJECT/bin/install-skill.sh" >/dev/null && ok "/outliers skill installed in ~/.claude/skills/outliers"
+bash "$PROJECT/bin/install-skill.sh" >/dev/null && ok "/outliers skill installed in ${CLAUDE_SKILLS_DIR:-$HOME/.claude/skills}/outliers"
 
 # 6. Offline tests
 if [ -x .venv/bin/python ]; then
-  if .venv/bin/python -m pytest -q -p no:cacheprovider >/tmp/outliers-setup-tests.log 2>&1; then
-    ok "tests ($(tail -1 /tmp/outliers-setup-tests.log))"
+  if .venv/bin/python -m pytest -q -p no:cacheprovider >"$PROJECT/.setup-tests.log" 2>&1; then
+    ok "tests ($(tail -1 "$PROJECT/.setup-tests.log"))"
   else
-    bad "tests failed (see /tmp/outliers-setup-tests.log)"
+    bad "tests failed (see $PROJECT/.setup-tests.log)"
   fi
 fi
 

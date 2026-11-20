@@ -14,10 +14,17 @@ def write(tmp_path, text):
     return p
 
 
+PHILOSOPHY = "niches:\n  Philosophy:\n    tiktok_creators: [jonstertruck]\n    ig_creators: [michael__mezz]\n"
+
+
 def test_example_config_loads():
     cfg = C.load(EXAMPLE)
-    assert cfg.thresholds["min_multiple"] == 5.0
-    n = cfg.niche("philosophy")  # case-insensitive lookup
+    assert cfg.thresholds["min_multiple"] == 5.0 and cfg.thresholds["min_views"] == 500_000
+    assert cfg.thresholds["talking_head_only"] is True and cfg.niches == {}  # new users start with no niches
+
+
+def test_niche_lookup_is_case_insensitive(tmp_path):
+    n = C.load(write(tmp_path, PHILOSOPHY)).niche("philosophy")
     assert n.name == "Philosophy"
     assert n.tiktok_creators == ["jonstertruck"] and n.ig_creators == ["michael__mezz"]
 
@@ -67,8 +74,8 @@ def test_same_handle_on_two_platforms_is_fine(tmp_path):
     assert cfg.niche("A").ig_creators == ["x"]
 
 
-def test_unknown_niche_error_lists_known_ones():
-    cfg = C.load(EXAMPLE)
+def test_unknown_niche_error_lists_known_ones(tmp_path):
+    cfg = C.load(write(tmp_path, PHILOSOPHY))
     with pytest.raises(C.ConfigError, match="Known niches: Philosophy"):
         cfg.niche("cooking")
 
@@ -194,8 +201,8 @@ def test_fmt_count():
     assert [C.fmt_count(n) for n in (None, 50000, 10000, 1_500_000, 12345)] == ["off", "50k", "10k", "1.5m", "12,345"]
 
 
-def test_add_creator_rejects_bad_platform():
-    cfg = C.load(EXAMPLE)
+def test_add_creator_rejects_bad_platform(tmp_path):
+    cfg = C.load(write(tmp_path, PHILOSOPHY))
     with pytest.raises(C.ConfigError, match="platform"):
         C.add_creator(cfg, "Philosophy", "youtube", "x")
 
